@@ -1,0 +1,360 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>main_searchable-html.html</title>
+        <author/>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <date>2024-03-09</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <p n="1" id="para-1">unknown</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p n="2" id="para-2">Converted from a Word document</p>
+        <msDesc>
+          <msIdentifier>
+            <idno type="localkey">/app/data/stages/inputs/316/bf55ae07c86b2ca8f77ffb1c73c5aeb7/main_searchable.xml</idno>
+            <idno type="doc_id">209834</idno>
+            <idno type="doc_key"/>
+            <idno type="pdf_key">316/bf55ae07c86b2ca8f77ffb1c73c5aeb7/main.pdf</idno>
+            <idno type="json_key">316/bf55ae07c86b2ca8f77ffb1c73c5aeb7/metadata.json</idno>
+            <idno type="xml_key"/>
+          </msIdentifier>
+          <history/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <xenoData type="ner_extraction" xml:space="preserve">{ "localKey": "/app/data/stages/inputs/316/bf55ae07c86b2ca8f77ffb1c73c5aeb7/main_searchable.xml", "contract_name": "", "is_parent_company_agreement": "N", "project_name": "", "geography": "", "country": "", "region": "", "state_province": "", "city": "", "county": "", "latitude": "", "longitude": "", "sector": [], "subsector": [], "subsubsector": "", "contract_date": "", "privateParty": "", "publicParty": "", "parties": [ {} ], "doc_type": "", "doc_subtype": "", "doc_subsubtype": "", "organizations": [], "docHash": "", "textKey": "", "organization_hints": [ {}, { "party": "Transocean Inc", "role": "Party", "pid": 37, "orig": "Transocean Inc." }, { "party": "Transocean Ltd.", "role": "Party", "pid": 37, "orig": "Transocean Ltd." } ], "sector_hints": [ "Other" ], "subsector_hints": [], "doc_type_hints": [ "Transaction Agreement" ], "project_name_hints": [], "date_hints": [ "2017-09-15" ], "location_hints": [ "Cayman Islands", "Steinhausen", "Canton" ], "role_hints": [], "contract_name_hints": [ "Amendment No. 1 to Transaction Agreement" ], "language": "en", "sponsor": "", "textPaged": "", "textChunked": "", "textMarked": "", "local_key_htm": "", "local_key_pdf": "", "local_key_json": "/app/data/stages/inputs/316/bf55ae07c86b2ca8f77ffb1c73c5aeb7/metadata.json", "local_key_xml": "", "s3DocKey": "", "s3PdfKey": "316/bf55ae07c86b2ca8f77ffb1c73c5aeb7/main.pdf", "s3JsonKey": "316/bf55ae07c86b2ca8f77ffb1c73c5aeb7/metadata.json", "s3XmlKey": "", "batch_id": 316, "skip_filter": "N", "skip_extraction": "N", "doc_id": 209834, "document_id": "", "contract_id": "", "proc_version": "2.0.7", "proc_status": "PROCESSING_IN_PROGRESS", "ner_helper_results": {}, "description": "Amendment No.1 to Transaction Agreement, dated as of September15, 2017, by and among TransoceanInc., TransoceanLtd. and Songa Offshore SE (incorporated by reference to Exhibit 2.1 to Transocean Ltd.'s Current Report on Form 8-K filed on September 15, 2017)." }</xenoData>
+    <xenoData type="llm_metadata" date="2024-12-27T12:14:27Z" resp="LLM">{'total_cost': 0.00013520999999999997, 'request_cost': 0.00013520999999999997, 'execution_time_seconds': 9.683045864105225, 'top5_project_list': ['Transocean Inc.', 'Transocean Ltd.', 'Songa Offshore SE', 'Transaction Agreement', 'Amendment No. 1'], 'top5_location_list': ['Cayman Islands', 'Switzerland', 'Cyprus', 'Steinhausen, Canton of Zug', 'N/A'], 'contract_date_formatted': '2017-09-15', 'contract_date_as_found': 'September 15, 2017', 'contract_date_sentence': 'This AMENDMENT NO. 1 to Agreement (this “AMENDMENT”) is made on SEPTEMBER 15, 2017 between:', 'project': 'Songa Offshore SE', 'project_location_in_text': 'Songa Offshore SE, a European public company limited by shares (or societas europaea), duly registered and validly existing under the laws of Cyprus with company registration number SE9 ("Songa Offshore").', 'country': 'Cyprus', 'contract_name': 'Amendment No. 1 to Transaction Agreement', 'doc_type': 'Amendment to Transaction Agreement', 'sector': 'Oil and Gas/Transportation', 'sector_reason': 'Found in DPS output', 'subsector': 'Shipping', 'subsector_reason': 'Found in DPS output', 'organizations': [{'name': 'Transocean Inc', 'role': 'Party'}, {'name': 'Transocean Ltd.', 'role': 'Party'}, {'name': 'Songa Offshore SE', 'role': 'Party'}]}</xenoData>
+        <xenoData type="ext_extraction" xml:space="preserve">{ "localKey": "/app/data/stages/inputs/316/bf55ae07c86b2ca8f77ffb1c73c5aeb7/main_searchable.xml", "contract_name": "", "is_parent_company_agreement": "N", "project_name": "", "geography": "", "country": "", "region": "", "state_province": "", "city": "", "county": "", "latitude": "", "longitude": "", "sector": [], "subsector": [], "subsubsector": "", "contract_date": "", "privateParty": "", "publicParty": "", "parties": [ {} ], "doc_type": "", "doc_subtype": "", "doc_subsubtype": "", "organizations": [], "docHash": "", "textKey": "", "organization_hints": [ {}, { "party": "Transocean Inc", "role": "Party", "pid": 37, "orig": "Transocean Inc." }, { "party": "Transocean Ltd.", "role": "Party", "pid": 37, "orig": "Transocean Ltd." } ], "sector_hints": [], "subsector_hints": [], "doc_type_hints": [], "project_name_hints": [], "date_hints": [], "location_hints": [ "Cayman Islands", "Steinhausen", "Canton" ], "role_hints": [], "contract_name_hints": [], "language": "", "sponsor": "", "textPaged": "", "textChunked": "", "textMarked": "", "local_key_htm": "", "local_key_pdf": "", "local_key_json": "/app/data/stages/inputs/316/bf55ae07c86b2ca8f77ffb1c73c5aeb7/metadata.json", "local_key_xml": "", "s3DocKey": "", "s3PdfKey": "316/bf55ae07c86b2ca8f77ffb1c73c5aeb7/main.pdf", "s3JsonKey": "316/bf55ae07c86b2ca8f77ffb1c73c5aeb7/metadata.json", "s3XmlKey": "", "batch_id": 316, "skip_filter": "N", "skip_extraction": "N", "doc_id": 209834, "document_id": "", "contract_id": "", "proc_version": "2.0.7", "proc_status": "PROCESSING_IN_PROGRESS", "ner_helper_results": {}, "description": "Amendment No.1 to Transaction Agreement, dated as of September15, 2017, by and among TransoceanInc., TransoceanLtd. and Songa Offshore SE (incorporated by reference to Exhibit 2.1 to Transocean Ltd.'s Current Report on Form 8-K filed on September 15, 2017)." }</xenoData>
+    <xenoData type="dps_metadata" xml:space="preserve">{ "localKey": "/app/data/stages/inputs/316/bf55ae07c86b2ca8f77ffb1c73c5aeb7/main_searchable.xml", "contract_name": "", "is_parent_company_agreement": "N", "project_name": "", "geography": "", "country": "", "region": "", "state_province": "", "city": "", "county": "", "latitude": "", "longitude": "", "sector": [], "subsector": [], "subsubsector": "", "contract_date": "", "privateParty": "", "publicParty": "", "parties": [ {} ], "doc_type": "", "doc_subtype": "", "doc_subsubtype": "", "organizations": [], "docHash": "", "textKey": "", "organization_hints": [ {}, { "party": "Transocean Inc", "role": "Party", "pid": 37, "orig": "Transocean Inc." }, { "party": "Transocean Ltd.", "role": "Party", "pid": 37, "orig": "Transocean Ltd." } ], "sector_hints": [], "subsector_hints": [], "doc_type_hints": [ "Transaction Agreement" ], "project_name_hints": [], "date_hints": [ "2017-09-15" ], "location_hints": [ "Cayman Islands", "Steinhausen", "Canton" ], "role_hints": [], "contract_name_hints": [ "Amendment No. 1 to Transaction Agreement" ], "language": "en", "sponsor": "", "textPaged": "", "textChunked": "", "textMarked": "", "local_key_htm": "", "local_key_pdf": "", "local_key_json": "/app/data/stages/inputs/316/bf55ae07c86b2ca8f77ffb1c73c5aeb7/metadata.json", "local_key_xml": "", "s3DocKey": "", "s3PdfKey": "316/bf55ae07c86b2ca8f77ffb1c73c5aeb7/main.pdf", "s3JsonKey": "316/bf55ae07c86b2ca8f77ffb1c73c5aeb7/metadata.json", "s3XmlKey": "", "batch_id": 316, "skip_filter": "N", "skip_extraction": "N", "doc_id": 209834, "document_id": "", "contract_id": "", "proc_version": "2.1.0", "proc_status": "PROCESSING_IN_PROGRESS", "ner_helper_results": {}, "description": "Amendment No.1 to Transaction Agreement, dated as of September15, 2017, by and among TransoceanInc., TransoceanLtd. and Songa Offshore SE (incorporated by reference to Exhibit 2.1 to Transocean Ltd.'s Current Report on Form 8-K filed on September 15, 2017)." }</xenoData>
+    <xenoData type="external_metadata" xml:space="preserve">{ "localKey": "/app/data/stages/inputs/316/bf55ae07c86b2ca8f77ffb1c73c5aeb7/main_searchable.xml", "contract_name": "", "is_parent_company_agreement": "N", "project_name": "", "geography": "", "country": "", "region": "", "state_province": "", "city": "", "county": "", "latitude": "", "longitude": "", "sector": [], "subsector": [], "subsubsector": "", "contract_date": "", "privateParty": "", "publicParty": "", "parties": [ {} ], "doc_type": "", "doc_subtype": "", "doc_subsubtype": "", "organizations": [], "docHash": "", "textKey": "", "organization_hints": [ {}, { "party": "Transocean Inc", "role": "Party", "pid": 37, "orig": "Transocean Inc." }, { "party": "Transocean Ltd.", "role": "Party", "pid": 37, "orig": "Transocean Ltd." } ], "sector_hints": [], "subsector_hints": [], "doc_type_hints": [], "project_name_hints": [], "date_hints": [], "location_hints": [ "Cayman Islands", "Steinhausen", "Canton" ], "role_hints": [], "contract_name_hints": [], "language": "", "sponsor": "", "textPaged": "", "textChunked": "", "textMarked": "", "local_key_htm": "", "local_key_pdf": "", "local_key_json": "/app/data/stages/inputs/316/bf55ae07c86b2ca8f77ffb1c73c5aeb7/metadata.json", "local_key_xml": "", "s3DocKey": "", "s3PdfKey": "316/bf55ae07c86b2ca8f77ffb1c73c5aeb7/main.pdf", "s3JsonKey": "316/bf55ae07c86b2ca8f77ffb1c73c5aeb7/metadata.json", "s3XmlKey": "", "batch_id": 316, "skip_filter": "N", "skip_extraction": "N", "doc_id": 209834, "document_id": "", "contract_id": "", "proc_version": "2.1.0", "proc_status": "PROCESSING_IN_PROGRESS", "ner_helper_results": {}, "description": "Amendment No.1 to Transaction Agreement, dated as of September15, 2017, by and among TransoceanInc., TransoceanLtd. and Songa Offshore SE (incorporated by reference to Exhibit 2.1 to Transocean Ltd.'s Current Report on Form 8-K filed on September 15, 2017)." }</xenoData>
+    <xenoData type="ner_entities" xml:space="preserve">{
+ "proc_data": {
+  "date": "2024-12-18T19:24:54.209535",
+  "app": "doc_processing, semantic and named entity markup, version 2.1.0,",
+  "grouped": true
+ },
+ "extracted": {
+  "ORG": [
+   "TRANSOCEAN LTD.",
+   "Transocean Inc.",
+   "Songa Offshore",
+   "Songa Offshore SE"
+  ],
+  "DATE": [
+   "SE\nSeptember 15, 2017",
+   "SEPTEMBER 15, 2017",
+   "August 13, 2017",
+   "September 17, 2017”",
+   "September 27, 2017"
+  ],
+  "CARDINAL": [
+   "1",
+   "89645",
+   "1.",
+   "2",
+   "2.",
+   "12"
+  ],
+  "GPE": [
+   "Cayman Islands",
+   "Steinhausen",
+   "Zug",
+   "Switzerland",
+   "Cyprus"
+  ],
+  "NORP": [
+   "Swiss",
+   "European"
+  ],
+  "ROLE": [
+   "“Parties",
+   "“Party",
+   "Parties"
+  ],
+  "LAW": [
+   "the “Transaction Agreement”",
+   "the Transaction Agreement",
+   "Amendment No. 1"
+  ],
+  "WORK_OF_ART": [
+   "Completion Conditions"
+  ],
+  "ORDINAL": [
+   "first"
+  ],
+  "PERSON": [
+   "Stephen L. Hayes",
+   "Stephen McFadin",
+   "Bjønar Iversen"
+  ]
+ }
+}</xenoData>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="DocResponseMeta">
+          <fs type="docmeta">
+            <f name="batch_id">316</f>
+            <f name="contract_date" resp="RVS">2017-09-15</f>
+            <f name="contract_name" resp="RVS">Amendment No. 1 to Transaction Agreement</f>
+            <f name="contract_name_hints">
+              <vColl/>
+            </f>
+            <f name="country" resp="llm">Cyprus</f>
+            <f name="date_hints">
+              <vColl>
+                <string>2017-09-15</string>
+              </vColl>
+            </f>
+            <f name="doc_hash"/>
+            <f name="doc_id">209834</f>
+            <f name="doc_subtype"/>
+            <f name="doc_type" resp="RVS">Transaction Agreement</f>
+            <f name="doc_type_hints">
+              <vColl>
+                <string>Transaction Agreement</string>
+              </vColl>
+            </f>
+            <f name="geography"/>
+            <f name="is_parent_company_agreement">N</f>
+            <f name="language">en</f>
+            <f name="latitude"/>
+            <f name="location_hints">
+              <vColl/>
+            </f>
+            <f name="longitude"/>
+            <f name="proc_version">2.0.7</f>
+            <f name="project_name"/>
+            <f name="project_name_hints">
+              <vColl/>
+            </f>
+            <f name="region"/>
+            <f name="role_hints">
+              <vColl>
+                <string>Party</string>
+              </vColl>
+            </f>
+            <f name="s3_doc_key"/>
+            <f name="s3_pdf_key">316/bf55ae07c86b2ca8f77ffb1c73c5aeb7/main.pdf</f>
+            <f name="sector">
+              <vColl>
+                <string resp="llm">Oil and Gas</string>
+                <string resp="RVS">Transportation</string>
+              </vColl>
+            </f>
+            <f name="sector_hints">
+              <vColl/>
+            </f>
+            <f name="status" resp="RVS">QA_FLAGGED</f>
+            <f name="subsector">
+              <vColl>
+                <string resp="llm">Shipping</string>
+              </vColl>
+            </f>
+            <f name="subsector_hints">
+              <vColl/>
+            </f>
+            <f name="proc_status">PROCESSING_COMPLETE</f>
+            <f name="status_note" resp="RVS"/>
+            <f name="markup_mode">first occurrence</f>
+          </fs>
+        </classCode>
+      </textClass>
+      <particDesc>
+        <listOrg type="external_or_approved">
+          <org id="songa_offshore_se" resp="RVS">
+            <orgName type="party" reg="Songa Offshore SE">Songa Offshore SE</orgName>
+            <roleName>Party</roleName>
+          </org>
+          <org id="transocean_inc" resp="RVS">
+            <orgName type="party" reg="Transocean Inc">Transocean Inc</orgName>
+            <roleName>Party</roleName>
+          </org>
+          <org id="transocean_ltd" resp="RVS">
+            <orgName type="party" reg="Transocean Ltd.">Transocean Ltd.</orgName>
+            <roleName>Party</roleName>
+          </org>
+        </listOrg>
+        <listOrg type="hints">
+          <org id="transocean_inc">
+            <orgName type="party" reg="Transocean Inc" cert="unknown">TRANSOCEAN INC.</orgName>
+            <roleName/>
+          </org>
+          <org id="songa_offshore_se">
+            <orgName type="party" reg="Songa Offshore SE" cert="unknown">Songa Offshore SE</orgName>
+            <roleName/>
+          </org>
+          <org id="transocean_ltd">
+            <orgName type="party" reg="Transocean Ltd." cert="unknown">Transocean Ltd.</orgName>
+            <roleName cert="unknown">Parties</roleName>
+          </org>
+          <org id="songa_offshore">
+            <orgName type="party" reg="Songa Offshore" cert="unknown">Songa Offshore</orgName>
+            <roleName cert="unknown">Parties</roleName>
+          </org>
+          <org id="transocean_inc">
+            <orgName type="party" reg="Transocean Inc" cert="unknown">Transocean Inc</orgName>
+            <roleName cert="unknown">Party</roleName>
+          </org>
+          <org id="transocean_ltd">
+            <orgName type="party" reg="Transocean Ltd." cert="unknown">Transocean Ltd.</orgName>
+            <roleName cert="unknown">Party</roleName>
+          </org>
+        </listOrg>
+      </particDesc>
+    </profileDesc>
+    <encodingDesc>
+      <appInfo>
+        <application xml:id="docxtotei" ident="TEI_fromDOCX" version="7.57.0a">
+          <label>DOCX to TEI</label>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <revisionDesc>
+      <change when="2024-12-18T19:24:55.302405" who="doc_processing.xml_markup_entities">doc_processing, semantic and named entity markup, version 2.1.0,</change>
+      <change when="2024-12-05T04:15:32.076712" who="doc_processing.xml_markup_entities">doc_processing, semantic and named entity markup, version 2.0.7,</change>
+      <change when="2024-11-08T11:31:53.251392" who="pdf_processing.mark_headers">PDF Processor</change>
+      <change when="2024-08-17T05:24:22.960841" who="doc_processing.xml_markup_entities">doc_processing, semantic and named entity markup, version 2.0.7, rev b5a64baabdef2c51c9e6321776ae43df4aa00e3f, [master]</change>
+      <listChange>
+        <change>
+          <date>2024-03-09T01:34:39Z</date>
+          <name/>
+        </change>
+      </listChange>
+      <change when="2024-08-20T15:25:40Z" who="llm">ECS putLlmResponseMeta</change>
+      <change when="2024-09-18T03:22:16Z" who="RVS">ECS updateDocResponseMeta called with list_mode.value='replace', string_mode.value='replace', replace, skip_status_update=False</change>
+    <change when="2024-12-27T12:14:27Z" who="LLM">ECS replaceXenoData replaced llm_metadata</change>
+        <change when="2024-12-27T19:43:31Z" who="RVS">ECS updateDocResponseMeta called with list_mode.value='replace', string_mode.value='replace', replace, skip_status_update=False</change>
+        </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p rend="First Paragraph" n="3" id="para-3"> </p>
+      <p n="4" id="para-4"> </p>
+      <p n="5" id="para-5" ana="title-page intro-page">EXECUTION VERSION</p>
+      <p n="6" id="para-6"> </p>
+      <p n="7" id="para-7"> </p>
+      <p n="8" id="para-8"> </p>
+      <p n="9" id="para-9" ana="title-page intro-page">_______________________________________</p>
+      <p n="10" id="para-10" ana="title-page intro-page">Amendment No. 1 to Transaction Agreement</p>
+      <p n="11" id="para-11" ana="title-page intro-page">_______________________________________</p>
+      <p n="12" id="para-12"> </p>
+      <p n="13" id="para-13" ana="title-page intro-page">BETWEEN</p>
+      <p n="14" id="para-14"> </p>
+      <p n="15" id="para-15" ana="title-page intro-page">TRANSOCEAN INC.</p>
+      <p n="16" id="para-16"> </p>
+      <p n="17" id="para-17" ana="title-page intro-page">
+        <orgName>TRANSOCEAN LTD.</orgName>
+      </p>
+      <p n="18" id="para-18"> </p>
+      <p n="19" id="para-19" ana="title-page intro-page">AND</p>
+      <p n="20" id="para-20"> </p>
+      <p n="21" id="para-21" ana="title-page intro-page">SONGA OFFSHORE SE</p>
+      <p n="22" id="para-22"> </p>
+      <p n="23" id="para-23"> </p>
+      <p n="24" id="para-24"> </p>
+      <p n="25" id="para-25"> </p>
+      <p n="26" id="para-26" ana="title-page intro-page">
+        <date>September 15, 2017</date>
+      </p>
+      <p n="27" id="para-27"> </p>
+      <p n="28" id="para-28"> </p>
+      <p n="29" id="para-29"> </p>
+      <p n="30" id="para-30"> </p>
+      <p n="31" id="para-31"> </p>
+      <p n="32" id="para-32"> </p>
+      <p rend="First Paragraph" n="33" id="para-33"> </p>
+      <p n="34" id="para-34"> </p>
+      <p n="35" id="para-35" ana="title-page intro-page">This AMENDMENT NO. 1 to Agreement (this “AMENDMENT”) is made on <date>SEPTEMBER 15, 2017</date> between:</p>
+      <p n="36" id="para-36" ana="title-page intro-page">(1)<orgName>Transocean Inc.</orgName>, a <placeName>Cayman Islands</placeName> Exempted company with company registration number 89645 (“Transocean Inc.”);</p>
+      <p n="37" id="para-37" ana="title-page intro-page">(2)<orgName>Transocean Ltd.</orgName>, a <term>Swiss</term> corporation with its registered office in <placeName>Steinhausen</placeName>, Canton of <placeName>Zug</placeName>, <placeName>Switzerland</placeName> ("Transocean Ltd."); and</p>
+      <p n="38" id="para-38" ana="title-page intro-page">(3)<orgName>Songa Offshore</orgName> SE, a <term>European</term> public company limited by shares (or societas europaea), duly registered and validly existing under the laws of <placeName>Cyprus</placeName> with company registration number SE9 ("Songa Offshore").</p>
+      <p n="39" id="para-39" ana="title-page intro-page">
+                <orgName>Transocean Inc.</orgName>, <orgName>Transocean Ltd.</orgName> and <orgName>Songa Offshore</orgName> are hereinafter sometimes referred to collectively as the “<roleName>Parties</roleName>”, and individually as a “<roleName>Party</roleName>”.</p>
+      <p n="40" id="para-40">1. BACKGROUND</p>
+      <p n="41" id="para-41" ana="I_toc" base="the parties entered into a transaction agreement, dated august 13, 2017 (together with all" xml:id="H_0" rendition="{'header_tags': ['Other'], 'toc_number': '1.1'}">1.1The <roleName>Parties</roleName> entered into a Transaction Agreement, dated <date>August 13, 2017</date> (together with all exhibits thereto, the “Transaction Agreement”). </p>
+      <p n="42" id="para-42" ana="I_toc" base="each of the parties desire to amend the transaction agreement in accordance with this amendment." xml:id="H_1" rendition="{'header_tags': ['Other'], 'toc_number': '1.2'}">1.2Each of the <roleName>Parties</roleName> desire to amend the Transaction Agreement in accordance with this Amendment.</p>
+      <p n="43" id="para-43">2. Amendment </p>
+      <p base="capitalized terms used herein that are not otherwise defined herein have the respective meanings" rendition="{'header_tags': ['Other'], 'toc_number': '2.1'}" xml:id="H_2" n="44" id="para-44" ana="I_toc">2.1Capitalized terms used herein that are not otherwise defined herein have the respective meanings as ascribed thereto in the Transaction Agreement.</p>
+      <p n="45" id="para-45" ana="I_toc" base="the transaction agreement shall be amended as follows: (i)clause" xml:id="H_3" rendition="{'header_tags': ['Other'], 'toc_number': '2.2'}">2.2The Transaction Agreement shall be amended as follows:</p>
+      <p n="46" id="para-46">(i)Clause 9.1(i) is hereby amended such that “<date>September 17, 2017</date>” is hereby replaced with “<date>September 27, 2017</date>”.</p>
+      <p n="47" id="para-47">(ii)Appendix 1 under the item “Completion Conditions” is hereby amended such that “<date>September 17, 2017</date>” in each of (A) the introductory first paragraph and (B) no. 12 is hereby replaced with “<date>September 27, 2017</date>”.</p>
+      <p n="48" id="para-48">3.MISCELLANEOUS</p>
+      <p n="49" id="para-49" ana="I_toc" base="except as expressly amended hereby, the provisions of the transaction agreement are and will" xml:id="H_4" rendition="{'header_tags': ['Other'], 'toc_number': '3.1'}">3.1Except as expressly amended hereby, the provisions of the Transaction Agreement are and will remain in full force and effect and, except as expressly provided herein, nothing in this Amendment will be construed as a waiver of any of the rights or obligations of the <roleName>Parties</roleName> under the Transaction Agreement. All references to “this Agreement” and other similar words contained in the Transaction Agreement shall be deemed to refer to the Transaction Agreement, as amended by this Amendment.</p>
+      <p n="50" id="para-50" ana="I_toc" base="the following provisions from the transaction agreement shall be incorporated into, and be" xml:id="H_5" rendition="{'header_tags': ['Other'], 'toc_number': '3.2'}">3.2The following provisions from the Transaction Agreement shall be incorporated into, and be effective with respect to, this Amendment as if set forth herein in their entirety: Clause 11 (NOTICES), Clause 12 (MISCELLANEOUS) and Clause 15 (GOVERNING LAW AND DISPUTE RESOLUTION).</p>
+      <p n="51" id="para-51">[Signature page follows]</p>
+      <p n="52" id="para-52"> </p>
+      <p rend="First Paragraph" n="53" id="para-53"> </p>
+      <p n="54" id="para-54">3/3</p>
+      <p n="55" id="para-55"> </p>
+      <p n="56" id="para-56">IN WITNESS WHEREOF, each of the <roleName>Parties</roleName> have caused this Amendment to be executed on the date first written above by their respective duly authorized officers.</p>
+      <p n="57" id="para-57"> </p>
+      <p style="text-align: left;" table_idx="{'row': 0, 'col': 0}" n="58" id="para-58"> </p>
+      <p style="text-align: left;" table_idx="{'row': 0, 'col': 1}" n="59" id="para-59"> </p>
+      <p style="text-align: left;" table_idx="{'row': 0, 'col': 2}" n="60" id="para-60"> </p>
+      <p style="text-align: left;" cols="2" table_idx="{'row': 1, 'col': 0}" n="61" id="para-61">For and on behalf of <orgName>Transocean Ltd.</orgName>
+            </p>
+      <p style="text-align: left;" table_idx="{'row': 1, 'col': 1}" n="62" id="para-62"> </p>
+      <p style="text-align: left;" cols="2" table_idx="{'row': 2, 'col': 0}" n="63" id="para-63"> </p>
+      <p style="text-align: left;" table_idx="{'row': 2, 'col': 1}" n="64" id="para-64"> </p>
+      <p style="text-align: left;" table_idx="{'row': 3, 'col': 0}" n="65" id="para-65">Signature:</p>
+      <p style="text-align: left;" table_idx="{'row': 3, 'col': 1}" n="66" id="para-66">/s/ <persName>Stephen L. Hayes</persName> </p>
+      <p style="text-align: left;" table_idx="{'row': 3, 'col': 2}" n="67" id="para-67"> </p>
+      <p style="text-align: left;" cols="2" table_idx="{'row': 4, 'col': 0}" n="68" id="para-68"> </p>
+      <p style="text-align: left;" table_idx="{'row': 4, 'col': 1}" n="69" id="para-69"> </p>
+      <p style="text-align: left;" cols="2" table_idx="{'row': 5, 'col': 0}" n="70" id="para-70">NAME IN BLOCK LETTERS:</p>
+      <p style="text-align: left;" table_idx="{'row': 5, 'col': 1}" n="71" id="para-71"> </p>
+      <p style="text-align: left;" cols="2" table_idx="{'row': 6, 'col': 0}" n="72" id="para-72">
+        <persName>STEPHEN L. HAYES</persName>
+      </p>
+      <p style="text-align: left;" table_idx="{'row': 6, 'col': 1}" n="73" id="para-73"> </p>
+      <p n="74" id="para-74"> </p>
+      <p style="text-align: left;" table_idx="{'row': 0, 'col': 0}" n="75" id="para-75"> </p>
+      <p style="text-align: left;" table_idx="{'row': 0, 'col': 1}" n="76" id="para-76"> </p>
+      <p style="text-align: left;" table_idx="{'row': 0, 'col': 2}" n="77" id="para-77"> </p>
+      <p style="text-align: left;" cols="2" table_idx="{'row': 1, 'col': 0}" n="78" id="para-78">For and on behalf of <orgName>Transocean Inc.</orgName>
+            </p>
+      <p style="text-align: left;" table_idx="{'row': 1, 'col': 1}" n="79" id="para-79"> </p>
+      <p style="text-align: left;" cols="2" table_idx="{'row': 2, 'col': 0}" n="80" id="para-80"> </p>
+      <p style="text-align: left;" table_idx="{'row': 2, 'col': 1}" n="81" id="para-81"> </p>
+      <p style="text-align: left;" table_idx="{'row': 3, 'col': 0}" n="82" id="para-82">Signature:</p>
+      <p style="text-align: left;" table_idx="{'row': 3, 'col': 1}" n="83" id="para-83">/s/ C. <persName>Stephen McFadin</persName> </p>
+      <p style="text-align: left;" table_idx="{'row': 3, 'col': 2}" n="84" id="para-84"> </p>
+      <p style="text-align: left;" cols="2" table_idx="{'row': 4, 'col': 0}" n="85" id="para-85"> </p>
+      <p style="text-align: left;" table_idx="{'row': 4, 'col': 1}" n="86" id="para-86"> </p>
+      <p style="text-align: left;" cols="2" table_idx="{'row': 5, 'col': 0}" n="87" id="para-87">NAME IN BLOCK LETTERS:</p>
+      <p style="text-align: left;" table_idx="{'row': 5, 'col': 1}" n="88" id="para-88"> </p>
+      <p style="text-align: left;" cols="2" table_idx="{'row': 6, 'col': 0}" n="89" id="para-89">C. <persName>STEPHEN MCFADIN</persName> </p>
+      <p style="text-align: left;" table_idx="{'row': 6, 'col': 1}" n="90" id="para-90"> </p>
+      <p n="91" id="para-91"> </p>
+      <p style="text-align: left;" table_idx="{'row': 0, 'col': 0}" n="92" id="para-92"> </p>
+      <p style="text-align: left;" table_idx="{'row': 0, 'col': 1}" n="93" id="para-93"> </p>
+      <p style="text-align: left;" table_idx="{'row': 0, 'col': 2}" n="94" id="para-94"> </p>
+      <p style="text-align: left;" cols="2" table_idx="{'row': 1, 'col': 0}" n="95" id="para-95">For and on behalf of <orgName>
+                    <orgName>Songa Offshore</orgName> SE</orgName> </p>
+      <p style="text-align: left;" table_idx="{'row': 1, 'col': 1}" n="96" id="para-96"> </p>
+      <p style="text-align: left;" cols="2" table_idx="{'row': 2, 'col': 0}" n="97" id="para-97"> </p>
+      <p style="text-align: left;" table_idx="{'row': 2, 'col': 1}" n="98" id="para-98"> </p>
+      <p style="text-align: left;" table_idx="{'row': 3, 'col': 0}" n="99" id="para-99">Signature:</p>
+      <p style="text-align: left;" table_idx="{'row': 3, 'col': 1}" n="100" id="para-100">/s/ Bjønar Iversen</p>
+      <p style="text-align: left;" table_idx="{'row': 3, 'col': 2}" n="101" id="para-101"> </p>
+      <p style="text-align: left;" cols="2" table_idx="{'row': 4, 'col': 0}" n="102" id="para-102"> </p>
+      <p style="text-align: left;" table_idx="{'row': 4, 'col': 1}" n="103" id="para-103"> </p>
+      <p style="text-align: left;" cols="2" table_idx="{'row': 5, 'col': 0}" n="104" id="para-104">NAME IN BLOCK LETTERS:</p>
+      <p style="text-align: left;" table_idx="{'row': 5, 'col': 1}" n="105" id="para-105"> </p>
+      <p style="text-align: left;" cols="2" table_idx="{'row': 6, 'col': 0}" n="106" id="para-106">BJØNAR IVERSEN</p>
+      <p style="text-align: left;" table_idx="{'row': 6, 'col': 1}" n="107" id="para-107"> </p>
+      <p n="108" id="para-108"> </p>
+      <p n="109" id="para-109"> </p>
+      <p n="110" id="para-110"> </p>
+      <p n="111" id="para-111"> </p>
+      <p n="112" id="para-112">[Signature Page To Amendment No. 1 to Transaction Agreement]</p>
+      <p n="113" id="para-113"> </p>
+    </body>
+  </text>
+</TEI>
