@@ -1,0 +1,868 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>main_searchable-html.html</title>
+        <author/>
+      </titleStmt>
+      <editionStmt>
+        <edition>
+          <date>2024-07-25T23:28:35Z</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <p n="1" id="para-1">unknown</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p n="2" id="para-2">Converted from a Word document</p>
+        <msDesc>
+          <msIdentifier>
+            <idno type="localkey">/app/data/stages/inputs/1948/2ef55d9483753350b06babffe4398b1d/main_searchable.xml</idno>
+            <idno type="doc_id">712624</idno>
+            <idno type="doc_key"/>
+            <idno type="pdf_key">1948/2ef55d9483753350b06babffe4398b1d/main.pdf</idno>
+            <idno type="json_key">1948/2ef55d9483753350b06babffe4398b1d/metadata.json</idno>
+            <idno type="xml_key"/>
+          </msIdentifier>
+          <history/>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <xenoData type="external_metadata" xml:space="preserve">{ "ic_1_status": "", "filetype": "htm", "filename": "d70382dex1016", "cik": 1856525, "sic": 9996, "status": "SCRAPE_COMPLETE", "sectors": [], "subsectors": [], "doc_type": "", "source_id": 1, "organizations": [], "project_list": [], "language": "", "priority": 0, "skip_filter": "N", "skip_extraction": "N", "is_parent_company_agreement": "", "size": 72794, "latitude": "", "longitude": "", "doc_id": "", "batch_id": 1948, "scraper_id": 1, "start_page": "", "end_page": "", "accn_num": "000119312521169332", "contract_date": "", "contract_name": "", "timestamp": "2024-07-12T18:43+00:00", "doc_hash": "2ef55d9483753350b06babffe4398b1d", "s3HtmKey": "1948/2ef55d9483753350b06babffe4398b1d/main.htm", "metaDataKey": "1948/2ef55d9483753350b06babffe4398b1d/metadata.json", "origKey": "1948/2ef55d9483753350b06babffe4398b1d/main.pdf", "bucket": "ppd2-scrape-processed", "document": "d70382dex1016", "url": "http://www.sec.gov/Archives/edgar/data/1856525/000119312521169332/d70382dex1016.htm", "description": "10.9.2 Lender Joinder Agreement, dated as of July 8, 2019, by and among Core &amp; Main LP, as borrower, JPMorgan Chase Bank, N.A., as administrative agent and collateral agent, and the additional lender party thereto (incorporated by reference to Exhibit 10.1.6 to Core &amp; Main’s Registration Statement on Form S-1, filed on May 21, 2021 (File No. 333-256382)).", "exhibit_type": "10.9.2", "company_name": "Core &amp; Main, Inc.", "company_headquarter": "", "filing_type": "10-Q", "filing_date": "2021-09-14", "office": "", "industry_title": "WHOLESALE-DURABLE GOODS, NEC", "project_name": "", "geography": "", "country": "", "region": "", "subsubsector": "", "sponsor": "", "doc_subtype": "", "doc_subsubtype": "", "state": "", "province": "", "city": "", "county": "", "temp_s3_key": "", "temp_s3_bucket": "", "local_filepath": "", "project_name_hints": [], "date_hints": [], "contract_name_hints": [], "organizations_hints": [], "doc_type_hints": [], "sector_hints": [], "subsector_hints": [], "country_hints": [] }</xenoData>
+    <xenoData type="claude_metadata" date="2024-11-23T11:04:43Z" resp="LLM">{'contract_date': 'July 8, 2019', 'project': 'Blue Point Acquisition', 'project_location_in_text': 'No specific project location mentioned in the text', 'project_location': 'Not specified', 'country': 'United States', 'contract_name': 'Lender Joinder Agreement', 'doc_type': 'Lender Joinder Agreement', 'sector': 'Acquisition', 'subsector': 'Not specified', 'organizations': [{'party': 'JPMorgan Chase Bank, N.A.', 'role': 'Additional Commitment Lender', 'sentence': 'THIS LENDER JOINDER AGREEMENT, dated as of July 8, 2019 (this "Lender Joinder Agreement"), by and among JPMORGAN CHASE BANK, N.A. (in such capacity, the "Additional Commitment Lender")'}, {'party': 'CORE &amp; MAIN LP (formerly known as HD Supply Waterworks, Ltd., a Florida limited partnership (as successor by merger to CD&amp;R Waterworks Merger Sub, LLC, a Delaware limited liability company))', 'role': 'Borrower', 'sentence': 'CORE &amp; MAIN LP (formerly known as HD Supply Waterworks, Ltd., a Florida limited partnership (as successor by merger to CD&amp;R Waterworks Merger Sub, LLC, a Delaware limited liability company)) (the "Borrower"), a Florida limited partnership,'}, {'party': 'JPMORGAN CHASE BANK, N.A.', 'role': 'Administrative Agent', 'sentence': 'JPMORGAN CHASE BANK, N.A., as administrative agent (in such capacity, the "Administrative Agent") for the Lenders and as collateral agent for the Secured Parties.'}, {'party': 'CD&amp;R PLUMB BUYER, LLC', 'role': 'Guarantor', 'sentence': 'CD&amp;R PLUMB BUYER, LLC'}, {'party': 'CORE &amp; MAIN GP, LLC', 'role': 'Guarantor', 'sentence': 'CORE &amp; MAIN GP, LLC'}, {'party': 'CORE &amp; MAIN MANAGEMENT FEEDER, LLC', 'role': 'Guarantor', 'sentence': 'CORE &amp; MAIN MANAGEMENT FEEDER, LLC'}, {'party': 'Long Island Pipe Supply, Inc.', 'role': 'Seller in Blue Point Acquisition Agreement', 'sentence': 'the acquisition by the Borrower of certain assets of Long Island Pipe Supply, Inc. pursuant to the Blue Point Acquisition Agreement.'}, {'party': 'Robert Moss', 'role': 'Seller in Blue Point Acquisition Agreement', 'sentence': 'the Blue Point Acquisition Agreement, made entered into as of May 1, 2019, by and among the Borrower, Long Island Pipe Supply Company, Inc., a New York corporation ("LIP"), the Sellers (as defined therein), Robert Moss, a resident of Nassau County, New York, Bradley Moss, a resident of New York County, New York and Michael Moss, a resident of New York County, New York.'}, {'party': 'Bradley Moss', 'role': 'Seller in Blue Point Acquisition Agreement', 'sentence': 'the Blue Point Acquisition Agreement, made entered into as of May 1, 2019, by and among the Borrower, Long Island Pipe Supply Company, Inc., a New York corporation ("LIP"), the Sellers (as defined therein), Robert Moss, a resident of Nassau County, New York, Bradley Moss, a resident of New York County, New York and Michael Moss, a resident of New York County, New York.'}, {'party': 'Michael Moss', 'role': 'Seller in Blue Point Acquisition Agreement', 'sentence': 'the Blue Point Acquisition Agreement, made entered into as of May 1, 2019, by and among the Borrower, Long Island Pipe Supply Company, Inc., a New York corporation ("LIP"), the Sellers (as defined therein), Robert Moss, a resident of Nassau County, New York, Bradley Moss, a resident of New York County, New York and Michael Moss, a resident of New York County, New York.'}, {'party': 'JPMorgan Chase Bank, N.A., Citigroup Global Markets Inc., Bank of America, N.A., Barclays Bank PLC, Deutsche Bank AG New York Branch, Royal Bank of Canada, Goldman Sachs Bank USA, Branch Banking and Trust Company, U.S. Bank National Association, Credit Suisse AG, Natixis, New York Branch, and Nomura Securities International, Inc.', 'role': 'Blue Point Committed Lenders', 'sentence': '\\"Blue Point Committed Lenders": JPMorgan Chase Bank, N.A., Citigroup Global Markets Inc., Bank of America, N.A., Barclays Bank PLC, Deutsche Bank AG New York Branch, Royal Bank of Canada, Goldman Sachs Bank USA, Branch Banking and Trust Company, U.S. Bank National Association, Credit Suisse AG, Natixis, New York Branch, and Nomura Securities International, Inc.'}, {'party': 'JPMorgan Chase Bank, N.A., Citi, Merrill Lynch, Pierce, Fenner &amp; Smith Incorporated, Barclays Bank PLC, Deutsche Bank Securities Inc., RBC Capital Markets1, Goldman Sachs Bank USA, Branch Banking and Trust Company, U.S. Bank National Association, Credit Suisse Loan Funding LLC, Natixis, New York Branch, and Nomura Securities International, Inc.', 'role': 'Blue Point Lead Arrangers', 'sentence': '\\"Blue Point Lead Arrangers": in respect of the Supplemental Term Loan Commitments contemplated hereby, JPMorgan Chase Bank, N.A., Citi, Merrill Lynch, Pierce, Fenner &amp; Smith Incorporated, Barclays Bank PLC, Deutsche Bank Securities Inc., RBC Capital Markets1, Goldman Sachs Bank USA, Branch Banking and Trust Company, U.S. Bank National Association, Credit Suisse Loan Funding LLC, Natixis, New York Branch, and Nomura Securities International, Inc., as Joint Lead Arrangers.'}], 'people': [{'person': 'Peter S. Predun', 'role': 'Executive Director, JPMorgan Chase Bank, N.A.', 'sentence': 'By: /s/ Peter S. Predun\nName: Peter S. Predun\nTitle: Executive Director'}, {'person': 'Mark R. Witkowski', 'role': 'Vice President and Chief Financial Officer, CORE &amp; MAIN LP', 'sentence': 'By: /s/ Mark R. Witkowski\nName: Mark R. Witkowski\nTitle: Vice President and Chief Financial Officer'}, {'person': 'Theresa A. Gore', 'role': 'Vice President and Secretary, CD&amp;R PLUMB BUYER, LLC and CORE &amp; MAIN GP, LLC', 'sentence': 'By: /s/ Theresa A. Gore\nName: Theresa A. Gore\nTitle: Vice President and Secretary'}, {'person': 'Robert Moss', 'role': 'Seller in Blue Point Acquisition Agreement', 'sentence': 'the Blue Point Acquisition Agreement, made entered into as of May 1, 2019, by and among the Borrower, Long Island Pipe Supply Company, Inc., a New York corporation ("LIP"), the Sellers (as defined therein), Robert Moss, a resident of Nassau County, New York, Bradley Moss, a resident of New York County, New York and Michael Moss, a resident of New York County, New York.'}, {'person': 'Bradley Moss', 'role': 'Seller in Blue Point Acquisition Agreement', 'sentence': 'the Blue Point Acquisition Agreement, made entered into as of May 1, 2019, by and among the Borrower, Long Island Pipe Supply Company, Inc., a New York corporation ("LIP"), the Sellers (as defined therein), Robert Moss, a resident of Nassau County, New York, Bradley Moss, a resident of New York County, New York and Michael Moss, a resident of New York County, New York.'}, {'person': 'Michael Moss', 'role': 'Seller in Blue Point Acquisition Agreement', 'sentence': 'the Blue Point Acquisition Agreement, made entered into as of May 1, 2019, by and among the Borrower, Long Island Pipe Supply Company, Inc., a New York corporation ("LIP"), the Sellers (as defined therein), Robert Moss, a resident of Nassau County, New York, Bradley Moss, a resident of New York County, New York and Michael Moss, a resident of New York County, New York.'}], 'extra': {'Effective Date': 'July 8, 2019', 'Supplemental Term Loan Commitments': '$225,000,000', 'Term Loan Maturity Date': 'August 1, 2024'}, 'summary': "This document is a Lender Joinder Agreement dated July 8, 2019 between JPMorgan Chase Bank, N.A. (as the Additional Commitment Lender), CORE &amp; MAIN LP (the Borrower), and JPMorgan Chase Bank, N.A. (as the Administrative Agent). The agreement relates to the Borrower's acquisition of certain assets of Long Island Pipe Supply, Inc., referred to as the 'Blue Point Acquisition', through a separate Blue Point Acquisition Agreement. \n\nThe key details extracted from the document are:\n- JPMorgan Chase Bank, N.A. is committing $225,000,000 in Supplemental Term Loan Commitments with a maturity date of August 1, 2024.\n- The Borrower, CORE &amp; MAIN LP, and several guarantor entities are party to the agreement. \n- The 'Blue Point Committed Lenders' and 'Blue Point Lead Arrangers' are also identified.\n- The agreement amends the existing Term Loan Credit Agreement dated August 1, 2017 to incorporate the new Supplemental Term Loan Commitments.\n- Several individuals, including executives from the Borrower and the sellers in the Blue Point Acquisition, are named in the document.", 'summary_heuristic': 'Summary contains all required entities.', 'summary_rating': 1}</xenoData>
+        <xenoData type="llm_metadata" date="2024-09-30T01:48:24Z" resp="LLM">{'total_cost': 0.00021923999999999997, 'request_cost': 0.00021923999999999997, 'execution_time_seconds': 14.42812180519104, 'top5_project_list': ['Long Island Pipe Supply, Inc.', 'Blue Point Acquisition', 'Blue Point Acquisition Agreement', 'Existing ABL Credit Agreement', 'CORE &amp; MAIN LP'], 'top5_location_list': ['Nassau County, New York', 'New York County, New York', 'Florida', 'Delaware', 'New York'], 'contract_date_formatted': '2019-07-08', 'contract_date_as_found': 'July 8, 2019', 'contract_date_sentence': 'THIS LENDER JOINDER AGREEMENT, dated as of July 8, 2019 (this “ Lender Joinder Agreement”), by and among JPMORGAN CHASE BANK, N.A. (in such capacity, the “Additional Commitment Lender”), CORE &amp; MAIN LP (formerly known as HD Supply Waterworks, Ltd., a Florida limited partnership (as successor by merger to CD&amp;R Waterworks Merger Sub, LLC, a Delaware limited liability company)) (the “Borrower”), a Florida limited partnership, and JPMORGAN CHASE BANK, N.A., as administrative agent (in such capacity, the “Administrative Agent”) for the Lenders and as collateral agent for the Secured Parties.', 'project': 'Long Island Pipe Supply Inc', 'project_location_in_text': 'the acquisition by the Borrower of certain assets of Long Island Pipe Supply, Inc. pursuant to the Blue Point Acquisition Agreement.', 'country': 'United States', 'contract_name': 'Lender Joinder Agreement', 'doc_type': 'Lender Joinder Agreement', 'sector': 'Other', 'subsector': 'Water Purification', 'organizations': [{'name': 'JPMorgan Chase Bank N.A.', 'role': 'Additional Commitment Lender'}, {'name': 'Core &amp; Main LP', 'role': 'Borrower'}, {'name': 'JPMorgan Chase Bank N.A.', 'role': 'Administrative Agent'}, {'name': 'JPMorgan Chase Bank N.A.', 'role': 'Collateral Agent'}]}</xenoData>
+        <xenoData type="ner_entities" xml:space="preserve">{
+ "proc_data": {
+  "date": "2024-09-12T06:38:01.971596",
+  "app": "doc_processing, semantic and named entity markup, version 2.0.7, rev b5a64baabdef2c51c9e6321776ae43df4aa00e3f, [master]",
+  "grouped": true
+ },
+ "extracted": {
+  "DATE": [
+   "July 8, 2019",
+   "August 1, 2017",
+   "quarterly",
+   "January 26, 2018",
+   "The last Business Day",
+   "each Fiscal Quarter",
+   "at least three Business Days",
+   "May 11, 2016",
+   "May 11, 2018",
+   "at least 12 Business Days",
+   "three Business Days",
+   "the fiscal years ended January 28, 2018",
+   "February 3, 2019",
+   "any subsequent fiscal quarter",
+   "the fiscal year",
+   "the end of such quarter",
+   "the fourth fiscal quarter of any fiscal year",
+   "at least 60 days prior",
+   "the fiscal years ended December 31, 2017",
+   "December 31, 2018",
+   "at least 30 calendar days prior",
+   "at least 30 calendar days",
+   "May 1, 2019",
+   "August 1"
+  ],
+  "LAW": [
+   "this “ Lender Joinder Agreement",
+   "the Credit Agreement",
+   "Annex I hereto",
+   "the Term Loan Credit Agreement",
+   "the “Credit Agreement”",
+   "the Supplemental Term Loan Commitments",
+   "Schedule A",
+   "this Lender Joinder Agreement",
+   "Subsections 5.1 and",
+   "the Credit\nAgreement",
+   "this Lender\nJoinder",
+   "Subsection 10.5",
+   "Subsection 11.16",
+   "Subsection 4.11(b)",
+   "Subsection 4.11",
+   "Subsection 2.8",
+   "Subsection 1.1 of the Credit Agreement",
+   "Subsection\n",
+   "the “Acknowledgment”",
+   "this Section B.4",
+   "the Patriot Act",
+   "the Customer Due Diligence Requirements for Financial Institutions",
+   "the Bank Secrecy Act",
+   "the Customer Due Diligence Requirements for Financial Institutions issued by the",
+   "the Blue Point Acquisition Agreement",
+   "Section 7.02(a)",
+   "Section 7.02(a) of the Blue Point Acquisition Agreement",
+   "the “Seller Representations",
+   "Section 4.06(a)",
+   "Subsection 9.1(a)",
+   "this\nSection",
+   "this\nSection B.4",
+   "Section B.4(j)(ii)",
+   "the Security Documents",
+   "Schedule A annexed",
+   "the Guarantee and Collateral\nAgreement",
+   "the Guarantee and Collateral Agreement",
+   "the Commitments under the Credit Agreement",
+   "Section B.3",
+   "the Blue Point Acquisition\nAgreement",
+   "the Asset Purchase Agreement",
+   "the Blue\nPoint",
+   "Amendment No. 1",
+   "the Existing ABL Credit Agreement",
+   "the Existing ABL\nCredit",
+   "the Blue Point Acquisition"
+  ],
+  "ORG": [
+   "JPMORGAN CHASE BANK,\n",
+   "CORE &amp; MAIN LP",
+   "HD Supply Waterworks, Ltd.",
+   "CD&amp;R Waterworks Merger Sub, LLC",
+   "JPMORGAN CHASE BANK,",
+   "JPMORGAN CHASE BANK",
+   "Debevoise &amp; Plimpton LLP",
+   "Holland &amp; Knight LLP",
+   "CORE &amp; MAIN GP, LLC",
+   "CORE &amp; MAIN MANAGEMENT FEEDER, LLC",
+   "Long Island Pipe Supply, Inc.",
+   "Long Island\nPipe Supply Company, Inc.",
+   "Citigroup Global Markets Inc.",
+   "Bank of America",
+   "Barclays Bank PLC",
+   "Bank of America,",
+   "Deutsche Bank AG",
+   "Royal Bank of Canada",
+   "Goldman Sachs Bank USA",
+   "Branch Banking and Trust Company",
+   "U.S. Bank National",
+   "Credit Suisse AG",
+   "Nomura Securities International, Inc.",
+   "Merrill Lynch",
+   "Pierce, Fenner &amp; Smith Incorporated",
+   "Deutsche Bank Securities Inc.",
+   "RBC Capital Markets1",
+   "Goldman Sachs Bank",
+   "USA",
+   "U.S. Bank National Association",
+   "Credit Suisse Loan Funding LLC",
+   "Nomura\nSecurities International, Inc.",
+   "USA, Inc.",
+   "Citigroup North America, Inc.",
+   "RBC Capital Markets"
+  ],
+  "GPE": [
+   "Florida",
+   "Delaware",
+   "N.A.",
+   "the United States",
+   "United States",
+   "U.S.",
+   "NEW YORK",
+   "Long Island",
+   "Nassau County",
+   "New York County",
+   "New York Branch",
+   "USA"
+  ],
+  "ROLE": [
+   "successor",
+   "“Borrower",
+   "administrative agent",
+   "Lenders",
+   "collateral agent",
+   "Secured Parties",
+   "Borrower",
+   "“Lenders",
+   "or more Additional Commitment Lenders",
+   "parties",
+   "Additional Commitment Lender",
+   "applicable Agent",
+   "agent",
+   "Lender",
+   "“Lender",
+   "all the Lenders",
+   "Guarantor",
+   "Secretary",
+   "Assistant Secretary",
+   "counsel",
+   "special Florida counsel",
+   "Loan Parties",
+   "Blue Point Lead Arrangers",
+   "Guarantors",
+   "applicable Blue Point Lead Arranger",
+   "Blue Point Committed Lenders",
+   "treasurer",
+   "Commitment Lender",
+   "Affiliates",
+   "party",
+   "Loan Party",
+   "Executive Director",
+   "Vice President",
+   "Sellers",
+   "“Blue Point Committed Lenders",
+   "“Blue Point Lead Arrangers",
+   "Joint Lead Arrangers",
+   "subsidiary borrowers"
+  ],
+  "CARDINAL": [
+   "one",
+   "1.",
+   "2",
+   "3",
+   "4.4",
+   "4",
+   "ii",
+   "4.",
+   "3\n",
+   "iii",
+   "5",
+   "6",
+   "6\n",
+   "7",
+   "8",
+   "9",
+   "11",
+   "12",
+   "13",
+   "14",
+   "10179",
+   "1"
+  ],
+  "ORDINAL": [
+   "First"
+  ],
+  "PERCENT": [
+   "0.25%"
+  ],
+  "MONEY": [
+   "3,258,565.99",
+   "up to $25.0 million",
+   "225,000,000"
+  ],
+  "PERSON": [
+   "JPMORGAN CHASE BANK",
+   "Peter S. Predun",
+   "Mark R. Witkowski",
+   "Theresa A. Gore",
+   "Robert Moss",
+   "Bradley Moss",
+   "Michael Moss"
+  ]
+ }
+}</xenoData>
+    <profileDesc>
+      <textClass>
+        <classCode scheme="DocResponseMeta">
+          <fs type="docmeta">
+            <f name="batch_id">1948</f>
+            <f name="contract_date" resp="RVS">2019-07-08</f>
+            <f name="contract_name" resp="RVS">JPMorgan Chase Bank N.A. and JPMorgan Chase Bank N.A. Credit Agreement 2019-07-08</f>
+            <f name="contract_name_hints">
+              <vColl/>
+            </f>
+            <f name="country" resp="RVS">United States</f>
+            <f name="date_hints">
+              <vColl>
+                <string>2019-07-08</string>
+                <string>2017-08-01</string>
+                <string>2018-01-26</string>
+                <string>2016-05-11</string>
+                <string>2018-05-11</string>
+                <string>2019-02-03</string>
+                <string>2018-12-31</string>
+                <string>2019-05-01</string>
+                <string>2024-08-01</string>
+              </vColl>
+            </f>
+            <f name="doc_hash"/>
+            <f name="doc_id">712624</f>
+            <f name="doc_subtype"/>
+            <f name="doc_type" resp="RVS">Credit Agreement</f>
+            <f name="doc_type_hints">
+              <vColl>
+                <string>Credit Agreement</string>
+                <string>Joinder Agreement</string>
+                <string>Acquisition Agreement</string>
+                <string>Waiver Agreement</string>
+              </vColl>
+            </f>
+            <f name="geography"/>
+            <f name="is_parent_company_agreement"/>
+            <f name="language">en</f>
+            <f name="latitude"/>
+            <f name="location_hints">
+              <vColl>
+                <string>New York</string>
+                <string>N.A.</string>
+                <string>Florida</string>
+              </vColl>
+            </f>
+            <f name="longitude"/>
+            <f name="proc_version">2.0.7</f>
+            <f name="project_name"/>
+            <f name="project_name_hints">
+              <vColl/>
+            </f>
+            <f name="region"/>
+            <f name="role_hints">
+              <vColl>
+                <string>Successor</string>
+                <string>Borrower</string>
+                <string>Administrative Agent</string>
+                <string>Lender</string>
+                <string>Collateral Agent</string>
+                <string>Secured Party</string>
+                <string>Party</string>
+                <string>Additional Commitment Lender</string>
+                <string>Applicable Agent</string>
+                <string>Agent</string>
+                <string>All the Lender</string>
+                <string>Guarantor</string>
+                <string>Secretary</string>
+                <string>Assistant Secretary</string>
+                <string>Counsel</string>
+                <string>Special Florida Counsel</string>
+                <string>Loan Party</string>
+                <string>Blue Point Lead Arranger</string>
+                <string>Applicable Blue Point Lead Arranger</string>
+                <string>Blue Point Committed Lender</string>
+                <string>Treasurer</string>
+                <string>Commitment Lender</string>
+                <string>Affiliate</string>
+                <string>Executive Director</string>
+                <string>Vice President</string>
+                <string>Seller</string>
+                <string>Joint Lead Arranger</string>
+                <string>Subsidiary Borrower</string>
+              </vColl>
+            </f>
+            <f name="s3_doc_key"/>
+            <f name="s3_pdf_key">1948/2ef55d9483753350b06babffe4398b1d/main.pdf</f>
+            <f name="sector">
+              <vColl>
+                                <string resp="RVS">Mining</string>
+                                </vColl>
+            </f>
+            <f name="sector_hints">
+              <vColl>
+                <string>Mining</string>
+              </vColl>
+            </f>
+            <f name="status" resp="CIS">SHIPPED</f>
+            <f name="subsector">
+              <vColl>
+                                <string resp="RVS">Lead</string>
+                                </vColl>
+            </f>
+            <f name="subsector_hints">
+              <vColl>
+                <string>Lead</string>
+              </vColl>
+            </f>
+            <f name="proc_status">PROCESSING_COMPLETE</f>
+            <f name="status_note" resp="CIS">SUCCEEDED</f>
+            <f name="markup_mode">first occurrence</f>
+          </fs>
+        </classCode>
+      </textClass>
+      <particDesc>
+        <listOrg type="external_or_approved">
+                    <org id="jpmorgan_chase_bank_n_a" resp="RVS">
+                        <orgName type="party" reg="JPMorgan Chase Bank N.A.">JPMorgan Chase Bank N.A.</orgName>
+                        <roleName>Additional Commitment Lender</roleName>
+                    </org>
+                    <org id="jpmorgan_chase_bank_n_a" resp="RVS">
+                        <orgName type="party" reg="JPMorgan Chase Bank N.A.">JPMorgan Chase Bank N.A.</orgName>
+                        <roleName>Administrative Agent</roleName>
+                    </org>
+                    <org id="jpmorgan_chase_bank_n_a" resp="RVS">
+                        <orgName type="party" reg="JPMorgan Chase Bank N.A.">JPMorgan Chase Bank N.A.</orgName>
+                        <roleName>Collateral Agent</roleName>
+                    </org>
+                    <org id="hd_supply_waterworks_ltd" resp="RVS">
+                        <orgName type="party" reg="HD Supply Waterworks, Ltd.">HD Supply Waterworks, Ltd.</orgName>
+                        <roleName>successor</roleName>
+                    </org>
+                    <org id="cd_r_waterworks_merger_sub_llc" resp="RVS">
+                        <orgName type="party" reg="CD&amp;R Waterworks Merger Sub, LLC">CD&amp;R Waterworks Merger Sub, LLC</orgName>
+                        <roleName>Borrower</roleName>
+                    </org>
+                    <org id="jpmorgan_chase_bank" resp="RVS">
+                        <orgName type="party" reg="JPMORGAN CHASE BANK,">JPMORGAN CHASE BANK,</orgName>
+                        <roleName>administrative agent</roleName>
+                    </org>
+                    <org id="nomura_securities_international_inc" resp="RVS">
+                        <orgName type="party" reg="Nomura Securities International, Inc.">Nomura Securities International, Inc.</orgName>
+                        <roleName>Blue Point Lead Arrangers</roleName>
+                    </org>
+                    <org id="nomura_securities_international_inc" resp="RVS">
+                        <orgName type="party" reg="Nomura Securities International, Inc.">Nomura Securities International, Inc.</orgName>
+                        <roleName>Joint Lead Arrangers</roleName>
+                    </org>
+                    <org id="citigroup_north_america_inc" resp="RVS">
+                        <orgName type="party" reg="Citigroup North America, Inc.">Citigroup North America, Inc.</orgName>
+                        <roleName>affiliates</roleName>
+                    </org>
+                    <org id="royal_bank_of_canada" resp="RVS">
+                        <orgName type="party" reg="Royal Bank of Canada">Royal Bank of Canada</orgName>
+                        <roleName>affiliates</roleName>
+                    </org>
+                    <org id="cd_r_waterworks_merger_sub_llc" resp="RVS">
+                        <orgName type="party" reg="Cd&amp;r Waterworks Merger Sub LLC">Cd&amp;r Waterworks Merger Sub LLC</orgName>
+                        <roleName>Borrower</roleName>
+                    </org>
+                    <org id="hd_supply_waterworks_ltd" resp="RVS">
+                        <orgName type="party" reg="HD Supply Waterworks Ltd.">HD Supply Waterworks Ltd.</orgName>
+                        <roleName>Successor</roleName>
+                    </org>
+                <org id="jpmorgan_chase_bank" resp="RVS">
+                        <orgName type="party" reg="JPMORGAN CHASE BANK, ">JPMORGAN CHASE BANK, </orgName>
+                        <roleName>Party</roleName>
+                    </org>
+                    <org id="core_main_management_feeder_llc" resp="RVS">
+                        <orgName type="party" reg="CORE &amp; MAIN MANAGEMENT FEEDER, LLC">CORE &amp; MAIN MANAGEMENT FEEDER, LLC</orgName>
+                        <roleName>Party</roleName>
+                    </org>
+                    <org id="long_island_pipe_supply_inc" resp="RVS">
+                        <orgName type="party" reg="Long Island Pipe Supply, Inc.">Long Island Pipe Supply, Inc.</orgName>
+                        <roleName>Party</roleName>
+                    </org>
+                    <org id="citigroup_global_markets_inc" resp="RVS">
+                        <orgName type="party" reg="Citigroup Global Markets Inc.">Citigroup Global Markets Inc.</orgName>
+                        <roleName>Party</roleName>
+                    </org>
+                    <org id="barclays_bank_plc" resp="RVS">
+                        <orgName type="party" reg="Barclays Bank PLC">Barclays Bank PLC</orgName>
+                        <roleName>Party</roleName>
+                    </org>
+                    <org id="bank_of_america" resp="RVS">
+                        <orgName type="party" reg="Bank of America,">Bank of America,</orgName>
+                        <roleName>Party</roleName>
+                    </org>
+                    <org id="deutsche_bank_ag" resp="RVS">
+                        <orgName type="party" reg="Deutsche Bank AG">Deutsche Bank AG</orgName>
+                        <roleName>Party</roleName>
+                    </org>
+                    <org id="goldman_sachs_bank_usa" resp="RVS">
+                        <orgName type="party" reg="Goldman Sachs Bank USA">Goldman Sachs Bank USA</orgName>
+                        <roleName>Party</roleName>
+                    </org>
+                    <org id="branch_banking_and_trust_company" resp="RVS">
+                        <orgName type="party" reg="Branch Banking and Trust Company">Branch Banking and Trust Company</orgName>
+                        <roleName>Party</roleName>
+                    </org>
+                    <org id="credit_suisse_ag" resp="RVS">
+                        <orgName type="party" reg="Credit Suisse AG">Credit Suisse AG</orgName>
+                        <roleName>Party</roleName>
+                    </org>
+                    <org id="merrill_lynch" resp="RVS">
+                        <orgName type="party" reg="Merrill Lynch">Merrill Lynch</orgName>
+                        <roleName>Party</roleName>
+                    </org>
+                    <org id="pierce_fenner_smith_incorporated" resp="RVS">
+                        <orgName type="party" reg="Pierce, Fenner &amp; Smith Incorporated">Pierce, Fenner &amp; Smith Incorporated</orgName>
+                        <roleName>Party</roleName>
+                    </org>
+                    <org id="deutsche_bank_securities_inc" resp="RVS">
+                        <orgName type="party" reg="Deutsche Bank Securities Inc.">Deutsche Bank Securities Inc.</orgName>
+                        <roleName>Party</roleName>
+                    </org>
+                    <org id="u_s_bank_national_association" resp="RVS">
+                        <orgName type="party" reg="U.S. Bank National Association">U.S. Bank National Association</orgName>
+                        <roleName>Party</roleName>
+                    </org>
+                    <org id="core_main_management_feeder_llc" resp="RVS">
+                        <orgName type="party" reg="Core &amp; Main Management Feeder LLC">Core &amp; Main Management Feeder LLC</orgName>
+                        <roleName>Party</roleName>
+                    </org>
+                </listOrg>
+        <listOrg type="hints">
+          <org id="jpmorgan_chase_bank">
+            <orgName type="party" reg="JPMorgan Chase Bank" cert="unknown">JPMORGAN CHASE BANK, </orgName>
+            <roleName/>
+          </org>
+          <org id="hd_supply_waterworks_ltd">
+            <orgName type="party" reg="HD Supply Waterworks Ltd." cert="unknown">HD Supply Waterworks, Ltd.</orgName>
+            <roleName cert="unknown">successor</roleName>
+          </org>
+          <org id="cd_r_waterworks_merger_sub_llc">
+            <orgName type="party" reg="Cd&amp;r Waterworks Merger Sub LLC" cert="unknown">CD&amp;R Waterworks Merger Sub, LLC</orgName>
+            <roleName cert="unknown">Borrower</roleName>
+          </org>
+          <org id="jpmorgan_chase_bank">
+            <orgName type="party" reg="JPMorgan Chase Bank" cert="unknown">JPMORGAN CHASE BANK,</orgName>
+            <roleName cert="unknown">administrative agent</roleName>
+          </org>
+          <org id="debevoise_plimpton_llp">
+            <orgName type="party" reg="Debevoise &amp; Plimpton LLP" cert="unknown">Debevoise &amp; Plimpton LLP</orgName>
+            <roleName cert="unknown">counsel</roleName>
+          </org>
+          <org id="holland_knight_llp">
+            <orgName type="party" reg="Holland &amp; Knight LLP" cert="unknown">Holland &amp; Knight LLP</orgName>
+            <roleName cert="unknown">special Florida counsel</roleName>
+          </org>
+          <org id="core_main_lp">
+            <orgName type="party" reg="Core &amp; Main LP" cert="unknown">CORE &amp; MAIN LP</orgName>
+            <roleName cert="unknown">Borrower</roleName>
+          </org>
+          <org id="core_main_gp_llc">
+            <orgName type="party" reg="Core &amp; Main GP LLC" cert="unknown">CORE &amp; MAIN GP, LLC</orgName>
+            <roleName/>
+          </org>
+          <org id="core_main_management_feeder_llc">
+            <orgName type="party" reg="Core &amp; Main Management Feeder LLC" cert="unknown">CORE &amp; MAIN MANAGEMENT FEEDER, LLC</orgName>
+            <roleName/>
+          </org>
+          <org id="long_island_pipe_supply_inc">
+            <orgName type="party" reg="Long Island Pipe Supply Inc" cert="unknown">Long Island Pipe Supply, Inc.</orgName>
+            <roleName/>
+          </org>
+          <org id="long_island_pipe_supply_company_inc">
+            <orgName type="party" reg="Long Island Pipe Supply Company Inc" cert="unknown">Long Island Pipe Supply Company, Inc.</orgName>
+            <roleName cert="unknown">Sellers</roleName>
+          </org>
+          <org id="citigroup_global_markets_inc">
+            <orgName type="party" reg="CitiGroup Global Markets Inc." cert="unknown">Citigroup Global Markets Inc.</orgName>
+            <roleName/>
+          </org>
+          <org id="barclays_bank_plc">
+            <orgName type="party" reg="Barclays Bank PLC" cert="unknown">Barclays Bank PLC</orgName>
+            <roleName/>
+          </org>
+          <org id="bank_of_america">
+            <orgName type="party" reg="Bank of America" cert="unknown">Bank of America,</orgName>
+            <roleName/>
+          </org>
+          <org id="deutsche_bank_ag">
+            <orgName type="party" reg="Deutsche Bank AG" cert="unknown">Deutsche Bank AG</orgName>
+            <roleName/>
+          </org>
+          <org id="goldman_sachs_bank_usa">
+            <orgName type="party" reg="Goldman Sachs Bank USA" cert="unknown">Goldman Sachs Bank USA</orgName>
+            <roleName/>
+          </org>
+          <org id="branch_banking_and_trust_company">
+            <orgName type="party" reg="Branch Banking and Trust Company" cert="unknown">Branch Banking and Trust Company</orgName>
+            <roleName/>
+          </org>
+          <org id="credit_suisse_ag">
+            <orgName type="party" reg="Credit Suisse AG" cert="unknown">Credit Suisse AG</orgName>
+            <roleName/>
+          </org>
+          <org id="nomura_securities_international_inc">
+            <orgName type="party" reg="Nomura Securities International Inc" cert="unknown">Nomura Securities International, Inc.</orgName>
+            <roleName cert="unknown">Blue Point Lead Arrangers</roleName>
+          </org>
+          <org id="merrill_lynch">
+            <orgName type="party" reg="Merrill Lynch" cert="unknown">Merrill Lynch</orgName>
+            <roleName/>
+          </org>
+          <org id="pierce_fenner_smith_inc">
+            <orgName type="party" reg="Pierce, Fenner &amp; Smith Inc" cert="unknown">Pierce, Fenner &amp; Smith Incorporated</orgName>
+            <roleName/>
+          </org>
+          <org id="deutsche_bank_securities_inc">
+            <orgName type="party" reg="Deutsche Bank Securities Inc" cert="unknown">Deutsche Bank Securities Inc.</orgName>
+            <roleName/>
+          </org>
+          <org id="rbc_capital_markets1">
+            <orgName type="party" reg="RBC Capital Markets1" cert="unknown">RBC Capital Markets1</orgName>
+            <roleName/>
+          </org>
+          <org id="u_s_bank_national_association">
+            <orgName type="party" reg="U.S. Bank National Association" cert="unknown">U.S. Bank National Association</orgName>
+            <roleName/>
+          </org>
+          <org id="credit_suisse_loan_funding_llc">
+            <orgName type="party" reg="Credit Suisse Loan Funding LLC" cert="unknown">Credit Suisse Loan Funding LLC</orgName>
+            <roleName/>
+          </org>
+          <org id="nomura_securities_international_inc">
+            <orgName type="party" reg="Nomura Securities International Inc" cert="unknown">Nomura Securities International, Inc.</orgName>
+            <roleName cert="unknown">Joint Lead Arrangers</roleName>
+          </org>
+          <org id="usa_inc">
+            <orgName type="party" reg="USA Inc" cert="unknown">USA, Inc.</orgName>
+            <roleName cert="unknown">affiliates</roleName>
+          </org>
+          <org id="citigroup_north_america_inc">
+            <orgName type="party" reg="Citigroup North America Inc" cert="unknown">Citigroup North America, Inc.</orgName>
+            <roleName cert="unknown">affiliates</roleName>
+          </org>
+          <org id="rbc_capital_markets">
+            <orgName type="party" reg="RBC Capital Markets" cert="unknown">RBC Capital Markets</orgName>
+            <roleName cert="unknown">affiliates</roleName>
+          </org>
+          <org id="royal_bank_of_canada">
+            <orgName type="party" reg="Royal Bank of Canada" cert="unknown">Royal Bank of Canada</orgName>
+            <roleName cert="unknown">affiliates</roleName>
+          </org>
+          <org id="cd_r_waterworks_merger_sub_llc">
+            <orgName type="party" reg="Cd&amp;r Waterworks Merger Sub LLC" cert="unknown">Cd&amp;r Waterworks Merger Sub LLC</orgName>
+            <roleName cert="unknown">Borrower</roleName>
+          </org>
+          <org id="core_main_gp_llc">
+            <orgName type="party" reg="Core &amp; Main GP LLC" cert="unknown">Core &amp; Main GP LLC</orgName>
+            <roleName/>
+          </org>
+          <org id="core_main_lp">
+            <orgName type="party" reg="Core &amp; Main LP" cert="unknown">Core &amp; Main LP</orgName>
+            <roleName cert="unknown">Successor</roleName>
+          </org>
+          <org id="core_main_management_feeder_llc">
+            <orgName type="party" reg="Core &amp; Main Management Feeder LLC" cert="unknown">Core &amp; Main Management Feeder LLC</orgName>
+            <roleName/>
+          </org>
+          <org id="hd_supply_waterworks_ltd">
+            <orgName type="party" reg="HD Supply Waterworks Ltd." cert="unknown">HD Supply Waterworks Ltd.</orgName>
+            <roleName cert="unknown">Successor</roleName>
+          </org>
+        </listOrg>
+      </particDesc>
+    </profileDesc>
+    <encodingDesc>
+      <appInfo>
+        <application xml:id="docxtotei" ident="TEI_fromDOCX" version="2.15.0">
+          <label>DOCX to TEI</label>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <revisionDesc>
+      <change when="2024-09-12T06:38:02.944713" who="doc_processing.xml_markup_entities">doc_processing, semantic and named entity markup, version 2.0.7, rev b5a64baabdef2c51c9e6321776ae43df4aa00e3f, [master]</change>
+      <listChange>
+        <change>
+          <date>2024-07-25T23:28:35Z</date>
+          <name/>
+        </change>
+      </listChange>
+    <change when="2024-09-30T01:48:24Z" who="LLM">ECS replaceXenoData replaced llm_metadata</change>
+        <change when="2024-09-30T02:43:15Z" who="RVS">ECS updateDocResponseMeta called with list_mode.value='replace', string_mode.value='replace', replace, skip_status_update=False</change>
+        <change when="2024-09-30T04:21:05Z" who="CIS">ECS updateStatus to SHIPPED (status_note: SUCCEEDED)</change>
+        <change when="2024-10-12T08:49:49Z" who="LLM">ECS replaceXenoData replaced claude_metadata</change>
+        <change when="2024-10-27T08:24:47Z" who="RVS">ECS updateDocResponseMeta called with list_mode.value='replace', string_mode.value='replace', replace, skip_status_update=False</change>
+        <change when="2024-10-29T11:59:05Z" who="CIS">ECS updateStatus to SHIPPED (status_note: SUCCEEDED)</change>
+        <change when="2024-11-07T08:47:30Z" who="LLM">ECS replaceXenoData replaced claude_metadata</change>
+        <change when="2024-11-08T03:48:45Z" who="LLM">ECS replaceXenoData replaced claude_metadata</change>
+        <change when="2024-11-23T11:04:43Z" who="LLM">ECS replaceXenoData replaced claude_metadata</change>
+        <change when="2024-12-17T23:30:54Z" who="RVS">ECS updateDocResponseMeta called with list_mode.value='replace', string_mode.value='replace', replace, skip_status_update=False</change>
+        </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p rendition="{'ulx': '39.79', 'uly': '542.09', 'lrx': '31.15', 'lry': '536.24', 'page': 0, 'is_pdf_active': False}" n="3" id="para-3" ana="title-page intro-page">.6 </p>
+      <p rendition="{'ulx': '39.79', 'uly': '542.09', 'lrx': '31.15', 'lry': '536.24', 'page': 0, 'header_tags': ['Other'], 'is_pdf_active': True}" ana="H_ledgar title-page intro-page" base="lender joinder agreement" xml:id="H_1" n="4" id="para-4">LENDER JOINDER AGREEMENT </p>
+      <p rendition="{'ulx': '86.60', 'uly': '538.97', 'lrx': '77.96', 'lry': '71.71', 'page': 0, 'is_pdf_active': False}" n="5" id="para-5" ana="title-page intro-page">THIS LENDER JOINDER AGREEMENT, dated as of <date>July 8, 2019</date> (this “ Lender Joinder Agreement”), by and among <orgName>JPMORGAN CHASE BANK, </orgName>
+            </p>
+      <p rendition="{'ulx': '100.41', 'uly': '528.03', 'lrx': '91.77', 'lry': '52.51', 'page': 0, 'is_pdf_active': False}" n="6" id="para-6" ana="title-page intro-page">N.A. (in such capacity, the “Additional Commitment Lender”), <orgName>CORE &amp; MAIN LP</orgName> (formerly known as <orgName>HD Supply Waterworks, Ltd.</orgName>, a Florida limited partnership (as successor by merger to <orgName>CD&amp;R Waterworks Merger Sub, LLC</orgName>, a Delaware limited liability company)) (the “Borrower”), a Florida limited partnership, and JPMORGAN CHASE BANK, N.A., as administrative agent (in such capacity, the “Administrative Agent”) for the Lenders and as collateral agent for the Secured Parties. Unless otherwise defined herein or on Annex I hereto, terms defined in the Credit Agreement referred to below and used herein shall have the meanings given to them in the Credit Agreement. </p>
+      <p rendition="{'ulx': '188.63', 'uly': '318.49', 'lrx': '179.99', 'lry': '276.07', 'page': 0, 'header_tags': ['Other'], 'is_pdf_active': True}" ana="H_ART H_ledgar intro-page" xml:id="H_3" base="recitals" n="7" id="para-7">RECITALS: </p>
+      <p rendition="{'ulx': '212.04', 'uly': '525.60', 'lrx': '203.40', 'lry': '71.71', 'page': 0, 'is_pdf_active': True}" ana="H_ART intro-page" xml:id="H_4" n="8" id="para-8">WHEREAS, reference is made to the Term Loan Credit Agreement, dated as of <date>August 1, 2017</date> (as amended, supplemented, waived or otherwise modified from time to time, the “Credit Agreement”), among the Borrower, the several banks and other financial institutions from time to time party thereto </p>
+      <p rendition="{'ulx': '239.65', 'uly': '197.77', 'lrx': '231.01', 'lry': '52.51', 'page': 0, 'is_pdf_active': False}" n="9" id="para-9" ana="intro-page">(the “Lenders”) and the Administrative Agent; </p>
+      <p rendition="{'ulx': '263.05', 'uly': '531.50', 'lrx': '254.41', 'lry': '71.71', 'page': 0, 'is_pdf_active': True}" ana="H_ART intro-page" xml:id="H_5" n="10" id="para-10">WHEREAS, subject to the terms and conditions of the Credit Agreement, the Borrower may add Supplemental Term Loan Commitments of one <roleName>or more Additional Commitment Lenders</roleName> by entering into one or more Lender Joinder Agreements; and </p>
+      <p rendition="{'ulx': '300.26', 'uly': '534.30', 'lrx': '291.62', 'lry': '71.71', 'page': 0, 'is_pdf_active': True}" ana="H_ART intro-page" xml:id="H_6" n="11" id="para-11">WHEREAS, the form of this Lender Joinder Agreement is appropriate in the opinion of the Borrower and the Administrative Agent to give effect to the making of the Supplemental Term Loans pursuant to the Supplemental Term Loan Commitments set forth on Schedule A annexed hereto. </p>
+      <p rendition="{'ulx': '337.47', 'uly': '542.26', 'lrx': '328.83', 'lry': '71.71', 'page': 0, 'is_pdf_active': False}" n="12" id="para-12" ana="intro-page">NOW, THEREFORE, in consideration of the premises and agreements, provisions and covenants herein contained, the parties hereto agree as follows: </p>
+      <p rendition="{'ulx': '361.04', 'uly': '56.50', 'lrx': '344.95', 'lry': '52.51', 'page': 0, 'is_pdf_active': False}" n="13" id="para-13"> </p>
+      <p rendition="{'ulx': '374.08', 'uly': '536.73', 'lrx': '365.44', 'lry': '52.51', 'page': 0, 'is_pdf_active': False}" n="14" id="para-14" ana="intro-page">A. The Additional Commitment Lender hereby agrees to commit to provide its Commitments as set forth on Schedule A annexed hereto, on the terms and subject to the conditions set forth below: </p>
+      <p rendition="{'ulx': '397.49', 'uly': '536.10', 'lrx': '388.85', 'lry': '71.71', 'page': 0, 'is_pdf_active': False}" n="15" id="para-15" ana="intro-page">The Additional Commitment Lender (a) represents and warrants that it is legally authorized to enter into this Lender Joinder Agreement; ( b) confirms that it has received a copy of the Credit Agreement, together with copies of the financial statements referred to in Subsections 5.1 and 7.1 of the Credit </p>
+      <p rendition="{'ulx': '425.10', 'uly': '529.39', 'lrx': '416.46', 'lry': '52.51', 'page': 0, 'is_pdf_active': False}" n="16" id="para-16" ana="intro-page">Agreement and such other documents and information as it has deemed appropriate to make its own credit analysis and decision to enter into this Lender </p>
+      <p rendition="{'ulx': '438.90', 'uly': '515.64', 'lrx': '430.26', 'lry': '52.51', 'page': 0, 'header_tags': ['Other'], 'is_pdf_active': True}" ana="H_ledgar intro-page" base="joinder agreement" xml:id="H_8" n="17" id="para-17">Joinder Agreement; (c) agrees that it will, independently and without reliance upon the Administrative Agent or any other Lender and based on such documents and information as it shall deem appropriate at the time, continue to make its own credit decisions in taking or not taking action under the Credit </p>
+      <p rendition="{'ulx': '466.51', 'uly': '509.42', 'lrx': '457.87', 'lry': '52.51', 'page': 0, 'is_pdf_active': False}" n="18" id="para-18" ana="intro-page">Agreement, the other Loan Documents or any other instrument or document furnished pursuant hereto or thereto; (d) appoints and authorizes each applicable Agent to take such action as agent on its behalf and to exercise such powers and discretion under the Credit Agreement, the other Loan </p>
+      <p rendition="{'ulx': '494.12', 'uly': '235.53', 'lrx': '485.48', 'lry': '52.51', 'page': 0, 'is_pdf_active': False}" n="19" id="para-19" ana="intro-page">Documents or any other instrument or document furnished pursuant hereto or thereto as are delegated to each such Agent, as applicable, by the terms thereof, together with such powers as are incidental thereto; </p>
+      <p rendition="{'ulx': '53.59', 'uly': '534.53', 'lrx': '44.95', 'lry': '52.51', 'page': 1, 'is_pdf_active': False}" n="20" id="para-20" ana="intro-page">(e) hereby affirms the acknowledgments and representations of the Additional Commitment Lender as a Lender contained in Subsection 10.5 of the Credit </p>
+      <p rendition="{'ulx': '67.40', 'uly': '519.70', 'lrx': '58.76', 'lry': '52.51', 'page': 1, 'is_pdf_active': False}" n="21" id="para-21" ana="intro-page">Agreement; and (f) agrees that it will be bound by the provisions of the Credit Agreement and will perform in accordance with the terms of the Credit </p>
+      <p rendition="{'ulx': '81.20', 'uly': '537.63', 'lrx': '72.56', 'lry': '52.51', 'page': 1, 'is_pdf_active': False}" n="22" id="para-22" ana="intro-page">Agreement all the obligations which by the terms of the Credit Agreement are required to be performed by it as a Lender, including its obligations pursuant to Subsection 11.16 of the Credit Agreement, and, if it is organized under the laws of a jurisdiction outside the United States, its obligations pursuant to </p>
+      <p rendition="{'ulx': '108.81', 'uly': '191.33', 'lrx': '100.17', 'lry': '52.51', 'page': 1, 'header_tags': ['Other'], 'is_pdf_active': True}" ana="H_ledgar intro-page" base="subsection" xml:id="H_9" n="23" id="para-23">Subsection 4.11(b) of the Credit Agreement. </p>
+      <p rendition="{'ulx': '132.38', 'uly': '56.50', 'lrx': '116.29', 'lry': '52.51', 'page': 1, 'is_pdf_active': False}" n="24" id="para-24"> </p>
+      <p rendition="{'ulx': '153.22', 'uly': '541.64', 'lrx': '136.78', 'lry': '52.51', 'page': 1, 'is_pdf_active': False}" n="25" id="para-25" ana="intro-page">B. The Additional Commitment Lender hereby agrees to make its Supplemental Term Loan Commitment on the following terms and conditions on the Effective Date (as defined below): </p>
+      <p rendition="{'ulx': '159.15', 'uly': '53.84', 'lrx': '153.79', 'lry': '52.51', 'page': 1, 'is_pdf_active': False}" n="26" id="para-26"> </p>
+      <p rendition="{'ulx': '188.63', 'uly': '54.46', 'lrx': '179.99', 'lry': '52.51', 'page': 1, 'is_pdf_active': False}" n="27" id="para-27"> </p>
+      <p rendition="{'ulx': '208.44', 'uly': '540.80', 'lrx': '160.79', 'lry': '71.71', 'page': 1, 'header_tags': ['Other'], 'toc_number': '1'}" ana="H_ledgar intro-page" base="additional commitment lender to be a lender" xml:id="H_12" n="28" id="para-28">1. Additional Commitment Lender to Be a Lender. The Additional Commitment Lender acknowledges and agrees that upon its execution of this Lender Joinder Agreement that the Additional Commitment Lender shall on and as of the Effective Date become a “Lender” with respect to the Term Loan Tranche indicated on Schedule A, under, and for all purposes of, the Credit Agreement and the other Loan Documents, shall be subject to and bound by the terms thereof, shall perform all the obligations of and shall have all rights of a Lender thereunder, and shall make available such amount to fund its ratable share of outstanding Supplemental Term Loan Commitments on the Effective Date as the Administrative Agent may instruct. </p>
+      <p rendition="{'ulx': '214.37', 'uly': '53.84', 'lrx': '209.00', 'lry': '52.51', 'page': 1, 'is_pdf_active': False}" n="29" id="para-29"> </p>
+      <p rendition="{'ulx': '236.04', 'uly': '54.46', 'lrx': '227.40', 'lry': '52.51', 'page': 1, 'is_pdf_active': False}" n="30" id="para-30"> </p>
+      <p rendition="{'ulx': '248.05', 'uly': '534.74', 'lrx': '216.00', 'lry': '71.71', 'page': 1, 'header_tags': ['Other'], 'toc_number': '2'}" ana="H_ledgar intro-page" base="certain delivery requirements" xml:id="H_14" n="31" id="para-31">2. Certain Delivery Requirements. The Additional Commitment Lender has delivered or shall deliver herewith to the Borrower and the Administrative Agent such forms, certificates or other evidence with respect to United States federal income tax withholding matters as the Additional Commitment Lender may be required to deliver to the Borrower and the Administrative Agent pursuant to Subsection 4.11 of the Credit Agreement. </p>
+      <p rendition="{'ulx': '253.98', 'uly': '53.84', 'lrx': '248.62', 'lry': '52.51', 'page': 1, 'is_pdf_active': False}" n="32" id="para-32"> </p>
+      <p rendition="{'ulx': '272.05', 'uly': '531.93', 'lrx': '255.61', 'lry': '52.51', 'page': 1, 'header_tags': ['Other'], 'toc_number': '3'}" ana="H_ledgar intro-page" base="credit agreement amendments" xml:id="H_15" n="33" id="para-33"> 3. Credit Agreement Amendments. Pursuant to Subsection 2.8 of the Credit Agreement, on the Effective Date, the Credit Agreement is hereby amended as follows: </p>
+      <p rendition="{'ulx': '277.99', 'uly': '53.84', 'lrx': '272.62', 'lry': '52.51', 'page': 1, 'is_pdf_active': False}" n="34" id="para-34"> </p>
+      <p rendition="{'ulx': '296.06', 'uly': '511.36', 'lrx': '279.62', 'lry': '52.51', 'page': 1, 'is_pdf_active': False}" n="35" id="para-35" ana="intro-page"> a. Subsection 1.1 of the Credit Agreement is hereby amended by adding the following new definition, to appear in proper alphabetical order: </p>
+      <p rendition="{'ulx': '311.67', 'uly': '358.46', 'lrx': '303.03', 'lry': '159.94', 'page': 1, 'is_pdf_active': False}" n="36" id="para-36" ana="intro-page">“First Lender Joinder Agreement Effective Date”: July 8, 2019. </p>
+      <p rendition="{'ulx': '331.47', 'uly': '408.88', 'lrx': '315.23', 'lry': '52.51', 'page': 1, 'is_pdf_active': False}" n="37" id="para-37" ana="intro-page"> b. Subsection 2.2(b) of the Credit Agreement is hereby amended and restated as follows: </p>
+      <p rendition="{'ulx': '347.68', 'uly': '515.32', 'lrx': '339.04', 'lry': '159.94', 'page': 1, 'is_pdf_active': False}" n="38" id="para-38" ana="intro-page">“(b) The Initial Term Loans of all the Lenders shall be payable in consecutive quarterly installments beginning on </p>
+      <p rendition="{'ulx': '361.48', 'uly': '539.25', 'lrx': '352.84', 'lry': '159.94', 'page': 1, 'header_tags': ['Other'], 'is_pdf_active': True}" ana="H_ledgar intro-page" base="january" xml:id="H_16" n="39" id="para-39">
+                <date>January 26, 2018</date> up to and including the Initial Term Loan Maturity Date (subject to reduction as provided in Subsection </p>
+      <p rendition="{'ulx': '375.28', 'uly': '453.79', 'lrx': '366.64', 'lry': '159.94', 'page': 1, 'is_pdf_active': False}" n="40" id="para-40" ana="intro-page">4.4), on the dates (each such date, an “Installment Date”) and in the principal amounts, subject </p>
+      <p rendition="{'ulx': '387.00', 'uly': '54.34', 'lrx': '379.62', 'lry': '52.51', 'page': 1, 'is_pdf_active': False}" n="41" id="para-41"> </p>
+      <p rendition="{'ulx': '400.49', 'uly': '299.18', 'lrx': '391.85', 'lry': '295.27', 'page': 1, 'is_pdf_active': False}" n="42" id="para-42" ana="intro-page">2 to adjustment as set forth below, equal to the respective amounts set forth below (together with all accrued interest thereon) opposite the applicable Installment Dates (or, if less, the aggregate amount of such Initial Term Loans then outstanding): </p>
+      <p rendition="{'ulx': '83.35', 'uly': '55.17', 'lrx': '72.62', 'lry': '52.51', 'page': 2, 'is_pdf_active': False}" n="43" id="para-43"> </p>
+      <p rendition="{'ulx': '94.75', 'uly': '458.51', 'lrx': '86.83', 'lry': '52.51', 'page': 2, 'is_pdf_active': False}" n="44" id="para-44" ana="intro-page"> Date Amount </p>
+      <p rendition="{'ulx': '112.41', 'uly': '137.88', 'lrx': '103.77', 'lry': '135.93', 'page': 2, 'is_pdf_active': False}" n="45" id="para-45"> </p>
+      <p rendition="{'ulx': '112.41', 'uly': '350.49', 'lrx': '94.77', 'lry': '141.33', 'page': 2, 'is_pdf_active': False}" n="46" id="para-46" ana="intro-page">The last Business Day of each Fiscal Quarter ending prior to the First Lender Joinder Agreement Effective Date </p>
+      <p rendition="{'ulx': '112.41', 'uly': '539.39', 'lrx': '94.77', 'lry': '351.39', 'page': 2, 'is_pdf_active': False}" n="47" id="para-47" ana="intro-page">0.25% of the aggregate initial principal amount of the Initial Term Loans on the Closing Date </p>
+      <p rendition="{'ulx': '144.22', 'uly': '137.88', 'lrx': '135.58', 'lry': '135.93', 'page': 2, 'is_pdf_active': False}" n="48" id="para-48"> </p>
+      <p rendition="{'ulx': '144.22', 'uly': '350.49', 'lrx': '117.57', 'lry': '141.33', 'page': 2, 'is_pdf_active': False}" n="49" id="para-49" ana="intro-page">The last Business Day of each Fiscal Quarter ending on or after the First Lender Joinder Agreement Effective Date and prior to the Initial Term Loan Maturity Date </p>
+      <p rendition="{'ulx': '126.21', 'uly': '396.25', 'lrx': '117.57', 'lry': '351.39', 'page': 2, 'is_pdf_active': False}" n="50" id="para-50" ana="intro-page">$<term>3,258,565.99</term> </p>
+      <p rendition="{'ulx': '167.03', 'uly': '137.88', 'lrx': '158.39', 'lry': '135.93', 'page': 2, 'is_pdf_active': False}" n="51" id="para-51"> </p>
+      <p rendition="{'ulx': '158.02', 'uly': '242.67', 'lrx': '149.38', 'lry': '141.33', 'page': 2, 'is_pdf_active': False}" n="52" id="para-52" ana="intro-page">Initial Term Loan Maturity Date </p>
+      <p rendition="{'ulx': '167.03', 'uly': '350.49', 'lrx': '158.39', 'lry': '346.59', 'page': 2, 'is_pdf_active': False}" n="53" id="para-53" ana="intro-page"> all unpaid aggregate principal amounts of any outstanding Initial Term Loans </p>
+      <p rendition="{'ulx': '188.03', 'uly': '164.75', 'lrx': '179.39', 'lry': '159.34', 'page': 2, 'is_pdf_active': False}" n="54" id="para-54" ana="intro-page">”. </p>
+      <p rendition="{'ulx': '196.96', 'uly': '53.84', 'lrx': '191.60', 'lry': '52.51', 'page': 2, 'is_pdf_active': False}" n="55" id="para-55"> </p>
+      <p rendition="{'ulx': '215.04', 'uly': '54.46', 'lrx': '206.40', 'lry': '52.51', 'page': 2, 'is_pdf_active': False}" n="56" id="para-56"> </p>
+      <p rendition="{'ulx': '188.03', 'uly': '164.75', 'lrx': '179.39', 'lry': '159.34', 'page': 2, 'header_tags': ['Other'], 'toc_number': '4'}" ana="H_ledgar intro-page" base="conditions to effectiveness" xml:id="H_18" n="57" id="para-57">4. Conditions to Effectiveness. This Lender Joinder Agreement, including the agreement of the Additional Commitment Lender to make the Supplemental Term Loans requested to be made by it, shall become effective on the date (the “Effective Date”) on which the following conditions shall have been satisfied or waived: </p>
+      <p rendition="{'ulx': '228.77', 'uly': '53.84', 'lrx': '223.41', 'lry': '52.51', 'page': 2, 'is_pdf_active': False}" n="58" id="para-58"> </p>
+      <p rendition="{'ulx': '246.85', 'uly': '54.46', 'lrx': '238.21', 'lry': '52.51', 'page': 2, 'is_pdf_active': False}" n="59" id="para-59" ana="intro-page"> a. the Administrative Agent shall have received (i) this Lender Joinder Agreement, executed and delivered by the Borrower, the Administrative Agent and the Additional Commitment Lender, and (ii) the acknowledgment and consent attached to this Lender Joinder Agreement (the “Acknowledgment”), executed and delivered by each Guarantor; </p>
+      <p rendition="{'ulx': '260.58', 'uly': '53.84', 'lrx': '255.22', 'lry': '52.51', 'page': 2, 'is_pdf_active': False}" n="60" id="para-60"> </p>
+      <p rendition="{'ulx': '286.46', 'uly': '54.46', 'lrx': '277.82', 'lry': '52.51', 'page': 2, 'is_pdf_active': False}" n="61" id="para-61" ana="intro-page"> b. the Administrative Agent shall have received a certificate from the Borrower and, substantially concurrently with the satisfaction of the other conditions precedent set forth in this Section B.4, each other Loan Party, dated as of the Effective Date, substantially in the form of Exhibit F to the Credit Agreement, with appropriate insertions and attachments of resolutions or other actions, evidence of incumbency and the signature of authorized signatories and Organizational Documents, executed by a Responsible Officer and the Secretary or any Assistant Secretary or other authorized representative of such Loan Party; </p>
+      <p rendition="{'ulx': '310.78', 'uly': '54.34', 'lrx': '303.40', 'lry': '52.51', 'page': 2, 'is_pdf_active': False}" n="62" id="para-62"> </p>
+      <p rendition="{'ulx': '324.27', 'uly': '299.18', 'lrx': '315.63', 'lry': '295.27', 'page': 2, 'is_pdf_active': False}" n="63" id="para-63" ana="intro-page">3 </p>
+      <p rendition="{'ulx': '45.19', 'uly': '538.23', 'lrx': '28.75', 'lry': '52.51', 'page': 3, 'is_pdf_active': False}" n="64" id="para-64" ana="intro-page"> c. the Administrative Agent shall have received the following executed legal opinions, each in form and substance reasonably satisfactory to the Administrative Agent: </p>
+      <p rendition="{'ulx': '62.00', 'uly': '473.44', 'lrx': '45.76', 'lry': '52.51', 'page': 3, 'is_pdf_active': False}" n="65" id="para-65" ana="intro-page"> i. executed legal opinion of <orgName>Debevoise &amp; Plimpton LLP</orgName>, counsel to the Borrower and the other Loan Parties; </p>
+      <p rendition="{'ulx': '79.40', 'uly': '463.90', 'lrx': '63.16', 'lry': '52.51', 'page': 3, 'is_pdf_active': False}" n="66" id="para-66" ana="intro-page"> ii. executed legal opinion of <orgName>Holland &amp; Knight LLP</orgName>, <roleName>special Florida counsel</roleName> to certain of the Loan Parties; </p>
+      <p rendition="{'ulx': '85.93', 'uly': '53.84', 'lrx': '80.57', 'lry': '52.51', 'page': 3, 'is_pdf_active': False}" n="67" id="para-67"> </p>
+      <p rendition="{'ulx': '115.41', 'uly': '54.46', 'lrx': '106.77', 'lry': '52.51', 'page': 3, 'is_pdf_active': False}" n="68" id="para-68" ana="intro-page"> d. the Administrative Agent and the <roleName>Blue Point Lead Arrangers</roleName> shall have received at least three Business Days prior to the Effective Date all documentation and information about the Borrower and the Guarantors mutually agreed to be required by U.S. regulatory authorities under applicable “know your customer” and anti-money laundering rules and regulations, including the Patriot Act and the Customer Due Diligence Requirements for Financial Institutions issued by the U.S. Department of Treasury Financial Crimes Enforcement Network under the Bank Secrecy Act (as published <date>May 11, 2016</date> and effective <date>May 11, 2018</date>, as amended from time to time), that has been reasonably requested in writing by the <roleName>applicable Blue Point Lead Arranger</roleName> <date>at least 12 Business Days</date> prior to the Effective Date; </p>
+      <p rendition="{'ulx': '141.15', 'uly': '53.84', 'lrx': '135.78', 'lry': '52.51', 'page': 3, 'is_pdf_active': False}" n="69" id="para-69"> </p>
+      <p rendition="{'ulx': '159.22', 'uly': '54.46', 'lrx': '150.58', 'lry': '52.51', 'page': 3, 'is_pdf_active': False}" n="70" id="para-70" ana="intro-page"> e. the <roleName>Blue Point Committed Lenders</roleName> and the Blue Point Lead Arrangers shall have received all fees related to the Blue Point Transactions payable to them to the extent due which may be offset against the proceeds of the initial borrowing of the Supplemental Term Loans contemplated hereby; </p>
+      <p rendition="{'ulx': '172.96', 'uly': '53.84', 'lrx': '167.59', 'lry': '52.51', 'page': 3, 'is_pdf_active': False}" n="71" id="para-71"> </p>
+      <p rendition="{'ulx': '191.03', 'uly': '54.46', 'lrx': '182.39', 'lry': '52.51', 'page': 3, 'is_pdf_active': False}" n="72" id="para-72" ana="intro-page"> f. the Blue Point Lead Arrangers shall have received a certificate of the chief financial officer or treasurer (or other comparable officer) of the Borrower certifying the Solvency, after giving effect to the Blue Point Transactions, of the Borrower and its Subsidiaries on a consolidated basis in substantially the form of Exhibit H to the Credit Agreement; </p>
+      <p rendition="{'ulx': '204.77', 'uly': '53.84', 'lrx': '199.40', 'lry': '52.51', 'page': 3, 'is_pdf_active': False}" n="73" id="para-73"> </p>
+      <p rendition="{'ulx': '222.84', 'uly': '54.46', 'lrx': '214.20', 'lry': '52.51', 'page': 3, 'is_pdf_active': False}" n="74" id="para-74" ana="intro-page"> g. From the date of the Blue Point Acquisition Agreement, there has not occurred any Material Adverse Effect (as defined in the Blue Point Acquisition Agreement), nor has any event or events occurred that, individually or in the aggregate, with or without lapse of time, could reasonably be expected to result in a Material Adverse Effect (as defined in the Blue Point Acquisition Agreement); </p>
+      <p rendition="{'ulx': '236.58', 'uly': '53.84', 'lrx': '231.21', 'lry': '52.51', 'page': 3, 'is_pdf_active': False}" n="75" id="para-75"> </p>
+      <p rendition="{'ulx': '258.25', 'uly': '54.46', 'lrx': '249.61', 'lry': '52.51', 'page': 3, 'is_pdf_active': False}" n="76" id="para-76" ana="intro-page"> h. the Blue Point Acquisition shall have been or, substantially concurrently with the initial borrowing of the Supplemental Term Loans contemplated hereby shall be, consummated in all material respects in accordance with the terms of the Blue Point Acquisition Agreement, without giving effect to any modifications, amendments, express waivers or express consents thereunder by the Borrower that are materially adverse to the Additional </p>
+      <p rendition="{'ulx': '278.97', 'uly': '54.34', 'lrx': '271.59', 'lry': '52.51', 'page': 3, 'is_pdf_active': False}" n="77" id="para-77"> </p>
+      <p rendition="{'ulx': '292.46', 'uly': '299.18', 'lrx': '283.82', 'lry': '295.27', 'page': 3, 'is_pdf_active': False}" n="78" id="para-78" ana="intro-page">4 </p>
+      <p rendition="{'ulx': '91.40', 'uly': '54.46', 'lrx': '82.76', 'lry': '52.51', 'page': 4, 'is_pdf_active': False}" n="79" id="para-79"> </p>
+      <p rendition="{'ulx': '145.42', 'uly': '542.31', 'lrx': '28.75', 'lry': '116.12', 'page': 4, 'is_pdf_active': False}" n="80" id="para-80" ana="intro-page">Commitment Lender without the consent of the Blue Point Lead Arrangers (such consent not to be unreasonably withheld, conditioned or delayed and provided that the Blue Point Lead Arrangers shall be deemed to have consented to such modification, amendment, waiver or consent unless they shall object thereto within three Business Days after receipt of written notice of such modification, amendment, waiver or consent), it being understood and agreed that (i) any change in the Purchase Price (as defined in the Blue Point Acquisition Agreement) shall not be deemed to be materially adverse to the Additional Commitment Lender but (x) any resulting reduction in cash uses shall be allocated to a reduction in the Supplemental Term Loan Commitments and (y) any increase in the Purchase Price (as defined in the Blue Point Acquisition Agreement) (excluding, for the avoidance of doubt, any purchase price adjustments in accordance with the terms of the Blue Point Acquisition Agreement) shall be funded (at the Borrower’s option) with cash on hand and <term>up to $25.0 million</term> of ABL Facility Loans (as defined in the Credit Agreement) and (ii) any modification, amendment, express waiver or express consent to the definition of “Material Adverse Effect” in the Blue Point Acquisition Agreement shall be deemed to be materially adverse to the Additional Commitment Lender; provided that the Blue Point Lead Arrangers shall be deemed to have consented to such modification, amendment, express waiver or express consent unless they shall object thereto within three Business Days after receipt of written notice of such modification, amendment, express waiver or express consent; </p>
+      <p rendition="{'ulx': '151.95', 'uly': '53.84', 'lrx': '146.59', 'lry': '52.51', 'page': 4, 'is_pdf_active': False}" n="81" id="para-81"> </p>
+      <p rendition="{'ulx': '189.23', 'uly': '54.46', 'lrx': '180.59', 'lry': '52.51', 'page': 4, 'is_pdf_active': False}" n="82" id="para-82" ana="intro-page"> i. the Blue Point Lead Arrangers shall have received (i) audited consolidated balance sheets and related statements of operations, equity and cash flows of the Borrower for the <date>fiscal years ended January 28, 2018</date> and <date>February 3, 2019</date>, (ii) unaudited consolidated balance sheets and related statements of operations and cash flows of the Borrower for <date>any subsequent fiscal quarter</date> and the portion of the fiscal year through the end of such quarter (other than, in each case, the <date>fourth fiscal quarter of any fiscal year</date>) ended <date>at least 60 days prior</date> to the Effective Date, (iii) reviewed combined balance sheets and related statements of income and equity and cash flows of the Company for the fiscal years ended December 31, 2017 and December 31, 2018 and (iv) unreviewed combined balance sheets and related statements of income of the Company for any subsequent fiscal quarter and the portion of the fiscal year through the end of such quarter (other than, in each case, the fourth fiscal quarter of any fiscal year) ended at least 60 days prior to the Effective Date; </p>
+      <p rendition="{'ulx': '222.77', 'uly': '53.84', 'lrx': '217.41', 'lry': '52.51', 'page': 4, 'is_pdf_active': False}" n="83" id="para-83"> </p>
+      <p rendition="{'ulx': '244.45', 'uly': '54.46', 'lrx': '235.81', 'lry': '52.51', 'page': 4, 'is_pdf_active': False}" n="84" id="para-84" ana="intro-page"> j. (i) the condition in Section 7.02(a) of the Blue Point Acquisition Agreement (but only with respect to the representations that are material to the interests of the Additional Commitment Lender, and only to the extent that the Borrower (and any of its Affiliates that is a party to the Blue Point Acquisition Agreement) has the right to terminate its (and their) obligations under the Blue Point Acquisition Agreement (or </p>
+      <p rendition="{'ulx': '265.16', 'uly': '54.34', 'lrx': '257.79', 'lry': '52.51', 'page': 4, 'is_pdf_active': False}" n="85" id="para-85"> </p>
+      <p rendition="{'ulx': '278.66', 'uly': '299.18', 'lrx': '270.02', 'lry': '295.27', 'page': 4, 'is_pdf_active': False}" n="86" id="para-86" ana="intro-page">5 </p>
+      <p rendition="{'ulx': '59.60', 'uly': '54.46', 'lrx': '50.96', 'lry': '52.51', 'page': 5, 'is_pdf_active': False}" n="87" id="para-87" ana="intro-page"> otherwise decline to consummate the Blue Point Acquisition) without liability to the Borrower or any of its Affiliates as a result of a breach of such representations in the Blue Point Acquisition Agreement (the “Seller Representations”; provided that the representation set forth in Section 4.06(a) of the Blue Point Acquisition Agreement shall be deemed a Seller Representation)) shall have been satisfied and (ii) the Specified Representations (as defined in the Credit Agreement) shall be true and correct in all material respects, except to the extent they relate to a particular date in which case such Specified Representations shall be true and correct in all material respects on and as of such date as if made on and as of such date; </p>
+      <p rendition="{'ulx': '88.93', 'uly': '53.84', 'lrx': '83.57', 'lry': '52.51', 'page': 5, 'is_pdf_active': False}" n="88" id="para-88"> </p>
+      <p rendition="{'ulx': '107.01', 'uly': '532.11', 'lrx': '90.57', 'lry': '52.51', 'page': 5, 'is_pdf_active': False}" n="89" id="para-89" ana="intro-page"> k. the Administrative Agent shall have received a certificate from a Responsible Officer of the Borrower, dated as of the Effective Date, substantially in the form of Exhibit G to the Credit Agreement; and </p>
+      <p rendition="{'ulx': '112.94', 'uly': '53.84', 'lrx': '107.58', 'lry': '52.51', 'page': 5, 'is_pdf_active': False}" n="90" id="para-90"> </p>
+      <p rendition="{'ulx': '138.82', 'uly': '54.46', 'lrx': '130.18', 'lry': '52.51', 'page': 5, 'is_pdf_active': False}" n="91" id="para-91" ana="intro-page"> l. the Collateral Agent shall have received customary lien searches in the United States reasonably requested by it <date>at least 30 calendar days prior</date> to the Effective Date; provided that if such lien searches have not been delivered to the Collateral Agent on or prior to the Effective Date after the Borrower’s commercially reasonable efforts to do so, then delivery of such lien searches shall not constitute a condition precedent to the initial borrowing of the Supplemental Term Loans contemplated hereby if the Borrower agrees to deliver or cause to be delivered such lien searches pursuant to arrangements to be mutually agreed between the Borrower and the Administrative Agent. </p>
+      <p rendition="{'ulx': '160.35', 'uly': '53.84', 'lrx': '154.99', 'lry': '52.51', 'page': 5, 'is_pdf_active': False}" n="92" id="para-92"> </p>
+      <p rendition="{'ulx': '178.43', 'uly': '522.48', 'lrx': '161.99', 'lry': '52.51', 'page': 5, 'is_pdf_active': False}" n="93" id="para-93" ana="intro-page"> m. no Event of Default under Subsection 9.1(a) or (f) under the Credit Agreement shall have occurred and been continuing on <date>May 1, 2019</date>. </p>
+      <p rendition="{'ulx': '194.03', 'uly': '538.36', 'lrx': '185.39', 'lry': '96.32', 'page': 5, 'is_pdf_active': False}" n="94" id="para-94" ana="intro-page">The making of the Supplemental Term Loans by the Additional Commitment Lender hereunder shall conclusively be deemed to constitute an acknowledgment by the Administrative Agent and the Additional Commitment Lender that each of the conditions precedent set forth in this </p>
+      <p rendition="{'ulx': '221.64', 'uly': '504.77', 'lrx': '213.00', 'lry': '96.32', 'page': 5, 'is_pdf_active': False}" n="95" id="para-95" ana="intro-page">Section B.4 shall have been satisfied in accordance with its respective terms or shall have been irrevocably waived by such Person. </p>
+      <p rendition="{'ulx': '230.57', 'uly': '53.84', 'lrx': '225.21', 'lry': '52.51', 'page': 5, 'is_pdf_active': False}" n="96" id="para-96"> </p>
+      <p rendition="{'ulx': '256.45', 'uly': '54.46', 'lrx': '247.81', 'lry': '52.51', 'page': 5, 'is_pdf_active': False}" n="97" id="para-97"> </p>
+      <p rendition="{'ulx': '272.06', 'uly': '538.02', 'lrx': '232.21', 'lry': '71.71', 'page': 5, 'header_tags': ['Representations and warranties', 'Warranties'], 'toc_number': '5'}" ana="H_ledgar intro-page" base="representations and warranties" xml:id="H_20" n="98" id="para-98">5. Representations and Warranties. In order to induce the Additional Commitment Lender to enter into this Lender Joinder Agreement, the Borrower represents and warrants to the Additional Commitment Lender and the Administrative Agent that on and as of the Effective Date, each of the representations and warranties required to be made by any Loan Party pursuant to the Credit Agreement and any other Loan Document to which it is a party pursuant to Section B.4(j)(ii) shall, except to the extent that they relate to a particular date, be true and correct in all material respects on and as of the Effective Date as if made on and as of such date. </p>
+      <p rendition="{'ulx': '280.77', 'uly': '54.34', 'lrx': '273.39', 'lry': '52.51', 'page': 5, 'is_pdf_active': False}" n="99" id="para-99"> </p>
+      <p rendition="{'ulx': '294.26', 'uly': '299.18', 'lrx': '285.62', 'lry': '295.27', 'page': 5, 'is_pdf_active': False}" n="100" id="para-100" ana="intro-page">6 </p>
+      <p rendition="{'ulx': '87.80', 'uly': '54.46', 'lrx': '79.16', 'lry': '52.51', 'page': 6, 'is_pdf_active': False}" n="101" id="para-101"> </p>
+      <p rendition="{'ulx': '138.82', 'uly': '541.61', 'lrx': '28.75', 'lry': '71.71', 'page': 6, 'header_tags': ['Other'], 'toc_number': '6'}" ana="H_ledgar intro-page def" base="reference" xml:id="H_21" n="102" id="para-102">6. Reference to and Effect on the Credit Agreement and the Notes. On and after the effectiveness of this Lender Joinder Agreement, each reference in the Credit Agreement to “this Agreement”, “hereunder”, “hereof” or words of like import referring to the Credit Agreement, and each reference in the Notes and each of the other Loan Documents to “the Credit Agreement”, “thereunder”, “thereof” or words of like import referring to the Credit Agreement, shall mean and be a reference to the Credit Agreement, as modified by this Lender Joinder Agreement. The Credit Agreement and each of the other Loan Documents, as specifically modified by this Lender Joinder Agreement, are and shall continue to be in full force and effect and are hereby in all respects ratified and confirmed. The execution, delivery and effectiveness of this Lender Joinder Agreement shall not, except as expressly provided herein, operate as an amendment or waiver of any right, power or remedy of any Lender or any Agent under any of the Loan Documents, nor constitute an amendment or waiver of any provision of any of the Loan Documents. The Borrower hereby expressly acknowledges the terms of this Lender Joinder Agreement and reaffirms, as of the date hereof, (i) the covenants and agreements contained in each Loan Document to which it is a party, including, in each case, such covenants and agreements as in effect immediately after giving effect to this Lender Joinder Agreement and the transactions contemplated hereby and (ii) its grant of Liens on the Collateral to secure the Term Loan Facility Obligations (including, without limitation, in respect of the Supplemental Term Loans contemplated hereby) pursuant to the Security Documents. This Lender Joinder Agreement does not constitute a novation of any Obligations. </p>
+      <p rendition="{'ulx': '144.75', 'uly': '53.84', 'lrx': '139.39', 'lry': '52.51', 'page': 6, 'is_pdf_active': False}" n="103" id="para-103"> </p>
+      <p rendition="{'ulx': '162.82', 'uly': '536.20', 'lrx': '146.38', 'lry': '52.51', 'page': 6, 'header_tags': ['Other'], 'toc_number': '7'}" ana="H_ledgar intro-page" base="credit agreement governs" xml:id="H_22" n="104" id="para-104"> 7. Credit Agreement Governs. Except as set forth in this Lender Joinder Agreement, Supplemental Term Loan Commitments shall otherwise be subject to the provisions of the Credit Agreement and the other Loan Documents. </p>
+      <p rendition="{'ulx': '168.76', 'uly': '53.84', 'lrx': '163.39', 'lry': '52.51', 'page': 6, 'is_pdf_active': False}" n="105" id="para-105"> </p>
+      <p rendition="{'ulx': '186.83', 'uly': '513.27', 'lrx': '170.39', 'lry': '52.51', 'page': 6, 'is_pdf_active': False}" n="106" id="para-106" ana="intro-page"> 8. Notice. For purposes of the Credit Agreement, the initial notice address of the Additional Commitment Lender shall be as set forth on Schedule A annexed hereto. </p>
+      <p rendition="{'ulx': '192.76', 'uly': '53.84', 'lrx': '187.40', 'lry': '52.51', 'page': 6, 'is_pdf_active': False}" n="107" id="para-107"> </p>
+      <p rendition="{'ulx': '210.84', 'uly': '527.84', 'lrx': '194.40', 'lry': '52.51', 'page': 6, 'header_tags': ['Other'], 'toc_number': '9'}" ana="H_ledgar intro-page" base="recordation of the new loans" xml:id="H_24" n="108" id="para-108"> 9. Recordation of the New Loans. Upon execution, delivery and effectiveness hereof, the Administrative Agent will record the Supplemental Term Loan Commitments made by the Additional Commitment Lender in the Register. </p>
+      <p rendition="{'ulx': '216.77', 'uly': '53.84', 'lrx': '211.41', 'lry': '52.51', 'page': 6, 'is_pdf_active': False}" n="109" id="para-109"> </p>
+      <p rendition="{'ulx': '234.84', 'uly': '498.65', 'lrx': '218.40', 'lry': '52.51', 'page': 6, 'header_tags': ['Other'], 'toc_number': '10'}" ana="H_ledgar intro-page" base="tax matters" xml:id="H_26" n="110" id="para-110"> 10. Tax Matters. The parties hereto intend to treat the Initial Term Loans outstanding immediately prior to the Effective Date and the Supplemental Term Loans as one fungible tranche for U.S. federal and applicable state and local income tax purposes. </p>
+      <p rendition="{'ulx': '240.78', 'uly': '53.84', 'lrx': '235.41', 'lry': '52.51', 'page': 6, 'is_pdf_active': False}" n="111" id="para-111"> </p>
+      <p rendition="{'ulx': '258.85', 'uly': '536.46', 'lrx': '242.41', 'lry': '52.51', 'page': 6, 'header_tags': ['Other'], 'toc_number': '11'}" ana="H_ledgar intro-page" base="amendment, modification and waiver" xml:id="H_29" n="112" id="para-112"> 11. Amendment, Modification and Waiver. This Lender Joinder Agreement may not be amended, modified or waived except by an instrument or instruments in writing signed and delivered on behalf of each of the parties hereto. </p>
+      <p rendition="{'ulx': '264.78', 'uly': '53.84', 'lrx': '259.42', 'lry': '52.51', 'page': 6, 'is_pdf_active': False}" n="113" id="para-113"> </p>
+      <p rendition="{'ulx': '282.86', 'uly': '54.46', 'lrx': '274.22', 'lry': '52.51', 'page': 6, 'is_pdf_active': False}" n="114" id="para-114"> </p>
+      <p rendition="{'ulx': '290.66', 'uly': '543.33', 'lrx': '266.42', 'lry': '71.71', 'page': 6, 'header_tags': ['Other'], 'toc_number': '12'}" ana="H_ledgar intro-page" base="entire agreement" xml:id="H_31" n="115" id="para-115">12. Entire Agreement. This Lender Joinder Agreement, the Credit Agreement and the other Loan Documents represent the entire agreement among the parties with respect to the subject matter hereof, and there are no promises, undertakings, representations or warranties by any of the parties relative to the subject matter hereof not expressly set forth or referred to herein or in the other Loan Documents. </p>
+      <p rendition="{'ulx': '299.37', 'uly': '54.34', 'lrx': '292.00', 'lry': '52.51', 'page': 6, 'is_pdf_active': False}" n="116" id="para-116"> </p>
+      <p rendition="{'ulx': '312.87', 'uly': '299.18', 'lrx': '304.23', 'lry': '295.27', 'page': 6, 'is_pdf_active': False}" n="117" id="para-117" ana="intro-page">7 </p>
+      <p rendition="{'ulx': '52.39', 'uly': '54.46', 'lrx': '43.75', 'lry': '52.51', 'page': 7, 'is_pdf_active': False}" n="118" id="para-118"> </p>
+      <p rendition="{'ulx': '68.60', 'uly': '541.48', 'lrx': '28.75', 'lry': '71.71', 'page': 7, 'header_tags': ['Governing law'], 'toc_number': '13'}" ana="H_ledgar intro-page" base="governing law" xml:id="H_33" n="119" id="para-119">13. GOVERNING LAW. THIS LENDER JOINDER AGREEMENT AND THE RIGHTS AND OBLIGATIONS OF THE PARTIES HEREUNDER SHALL BE GOVERNED BY, AND CONSTRUED AND INTERPRETED IN ACCORDANCE WITH, THE LAW OF THE STATE OF NEW YORK, WITHOUT GIVING EFFECT TO ITS PRINCIPLES OR RULES OF CONFLICT OF LAWS TO THE EXTENT SUCH PRINCIPLES OR RULES ARE NOT MANDATORILY APPLICABLE BY STATUTE AND WOULD REQUIRE OR PERMIT THE APPLICATION OF THE LAWS OF ANOTHER JURISDICTION. </p>
+      <p rendition="{'ulx': '74.53', 'uly': '53.84', 'lrx': '69.17', 'lry': '52.51', 'page': 7, 'is_pdf_active': False}" n="120" id="para-120"> </p>
+      <p rendition="{'ulx': '92.61', 'uly': '54.46', 'lrx': '83.96', 'lry': '52.51', 'page': 7, 'is_pdf_active': False}" n="121" id="para-121"> </p>
+      <p rendition="{'ulx': '100.41', 'uly': '535.84', 'lrx': '76.16', 'lry': '71.71', 'page': 7, 'header_tags': ['Other'], 'toc_number': '14'}" ana="H_ledgar intro-page" base="severability" xml:id="H_34" n="122" id="para-122">14. Severability. Any provision of this Lender Joinder Agreement which is prohibited or unenforceable in any jurisdiction shall, as to such jurisdiction, be ineffective to the extent of such prohibition or unenforceability without invalidating the remaining provisions hereof, and any such prohibition or unenforceability in any jurisdiction shall not invalidate or render unenforceable such provision in any other jurisdiction. </p>
+      <p rendition="{'ulx': '106.34', 'uly': '53.84', 'lrx': '100.97', 'lry': '52.51', 'page': 7, 'is_pdf_active': False}" n="123" id="para-123"> </p>
+      <p rendition="{'ulx': '124.41', 'uly': '54.46', 'lrx': '115.77', 'lry': '52.51', 'page': 7, 'is_pdf_active': False}" n="124" id="para-124"> </p>
+      <p rendition="{'ulx': '132.22', 'uly': '541.14', 'lrx': '107.97', 'lry': '71.71', 'page': 7, 'header_tags': ['Other'], 'toc_number': '15'}" ana="H_ledgar intro-page" base="counterparts" xml:id="H_35" n="125" id="para-125">15. Counterparts. This Lender Joinder Agreement may be executed by one or more of the parties to this Lender Joinder Agreement on any number of separate counterparts (including by facsimile and other electronic transmission), and all of such counterparts taken together shall be deemed to constitute one and the same instrument. </p>
+      <p rendition="{'ulx': '152.62', 'uly': '368.54', 'lrx': '143.98', 'lry': '226.26', 'page': 7, 'is_pdf_active': False}" n="126" id="para-126" ana="intro-page">[Remainder of Page Intentionally Left Blank] </p>
+      <p rendition="{'ulx': '164.34', 'uly': '54.34', 'lrx': '156.96', 'lry': '52.51', 'page': 7, 'is_pdf_active': False}" n="127" id="para-127"> </p>
+      <p rendition="{'ulx': '177.83', 'uly': '299.18', 'lrx': '169.19', 'lry': '295.27', 'page': 7, 'is_pdf_active': False}" n="128" id="para-128" ana="intro-page">8 </p>
+      <p rendition="{'ulx': '39.79', 'uly': '534.99', 'lrx': '31.15', 'lry': '71.71', 'page': 8, 'is_pdf_active': False}" n="129" id="para-129" ana="intro-page">IN WITNESS WHEREOF, the parties hereto have caused this Lender Joinder Agreement to be duly executed, all as of the date first written above. </p>
+      <p rendition="{'ulx': '55.74', 'uly': '55.17', 'lrx': '45.01', 'lry': '52.51', 'page': 8, 'is_pdf_active': False}" n="130" id="para-130"> </p>
+      <p rendition="{'ulx': '75.20', 'uly': '463.95', 'lrx': '58.76', 'lry': '346.59', 'page': 8, 'is_pdf_active': False}" n="131" id="para-131" ana="intro-page">JPMORGAN CHASE BANK, N.A. as Additional Commitment Lender </p>
+      <p rendition="{'ulx': '93.80', 'uly': '420.40', 'lrx': '85.16', 'lry': '346.59', 'page': 8, 'is_pdf_active': False}" n="132" id="para-132" ana="intro-page">By: /s/ <persName>Peter S. Predun</persName> </p>
+      <p rendition="{'ulx': '112.41', 'uly': '440.74', 'lrx': '94.77', 'lry': '360.39', 'page': 8, 'is_pdf_active': False}" n="133" id="para-133" ana="intro-page"> Name: Peter S. Predun Title: Executive Director </p>
+      <p rendition="{'ulx': '125.96', 'uly': '55.17', 'lrx': '115.23', 'lry': '52.51', 'page': 8, 'is_pdf_active': False}" n="134" id="para-134"> </p>
+      <p rendition="{'ulx': '145.42', 'uly': '465.57', 'lrx': '128.98', 'lry': '346.59', 'page': 8, 'is_pdf_active': False}" n="135" id="para-135" ana="intro-page">JPMORGAN CHASE BANK, N.A., as Administrative Agent </p>
+      <p rendition="{'ulx': '164.02', 'uly': '420.40', 'lrx': '155.38', 'lry': '346.59', 'page': 8, 'is_pdf_active': False}" n="136" id="para-136" ana="intro-page">By: /s/ Peter S. Predun </p>
+      <p rendition="{'ulx': '182.63', 'uly': '440.74', 'lrx': '164.99', 'lry': '360.39', 'page': 8, 'is_pdf_active': False}" n="137" id="para-137" ana="intro-page"> Name: Peter S. Predun Title: Executive Director </p>
+      <p rendition="{'ulx': '196.18', 'uly': '55.17', 'lrx': '185.45', 'lry': '52.51', 'page': 8, 'is_pdf_active': False}" n="138" id="para-138"> </p>
+      <p rendition="{'ulx': '215.64', 'uly': '121.08', 'lrx': '199.20', 'lry': '52.51', 'page': 8, 'is_pdf_active': False}" n="139" id="para-139" ana="intro-page">CORE &amp; MAIN LP, as Borrower </p>
+      <p rendition="{'ulx': '234.24', 'uly': '140.18', 'lrx': '225.60', 'lry': '52.51', 'page': 8, 'is_pdf_active': False}" n="140" id="para-140" ana="intro-page">By: /s/ <persName>Mark R. Witkowski</persName> </p>
+      <p rendition="{'ulx': '252.85', 'uly': '221.14', 'lrx': '235.21', 'lry': '66.31', 'page': 8, 'is_pdf_active': False}" n="141" id="para-141" ana="intro-page"> Name: Mark R. Witkowski Title: Vice President and Chief Financial Officer </p>
+      <p rendition="{'ulx': '262.16', 'uly': '54.34', 'lrx': '254.79', 'lry': '52.51', 'page': 8, 'is_pdf_active': False}" n="142" id="para-142"> </p>
+      <p rendition="{'ulx': '275.66', 'uly': '390.37', 'lrx': '267.02', 'lry': '204.35', 'page': 8, 'is_pdf_active': False}" n="143" id="para-143" ana="intro-page">[Signature Page to Lender Joinder Agreement (Blue Point)] </p>
+      <p rendition="{'ulx': '39.79', 'uly': '371.95', 'lrx': '31.15', 'lry': '222.95', 'page': 9, 'is_pdf_active': False}" n="144" id="para-144" ana="intro-page">Acknowledgment to Lender Joinder Agreement </p>
+      <p rendition="{'ulx': '63.20', 'uly': '539.25', 'lrx': '54.56', 'lry': '71.71', 'page': 9, 'is_pdf_active': False}" n="145" id="para-145" ana="intro-page">Each Guarantor acknowledges and consents to each of the foregoing provisions of this Lender Joinder Agreement. Each Guarantor (and the Borrower by delivery of its executed signature above) further acknowledges and agrees that all Obligations with respect to the Initial Term Loan Commitments under the Credit Agreement as modified by this Lender Joinder Agreement shall be fully guaranteed and secured pursuant to the Guarantee and Collateral </p>
+      <p rendition="{'ulx': '104.61', 'uly': '531.09', 'lrx': '95.97', 'lry': '52.51', 'page': 9, 'is_pdf_active': False}" n="146" id="para-146" ana="intro-page">Agreement in accordance with the terms and provisions thereof. Each Guarantor and the Borrower reaffirms its obligations under the Loan Documents to which it is party. Without limiting the foregoing, each of the Guarantors and the Borrower hereby (i) acknowledges and agrees that all of its obligations under the Guarantee and Collateral Agreement and the other Security Documents to which it is a party are reaffirmed and remain in full force and effect on a continuous basis, (ii) reaffirms each Lien granted by such Guarantor and the Borrower, as applicable, to the Collateral Agent for the benefit of the Secured </p>
+      <p rendition="{'ulx': '159.82', 'uly': '525.37', 'lrx': '151.18', 'lry': '52.51', 'page': 9, 'is_pdf_active': False}" n="147" id="para-147" ana="intro-page">Parties made pursuant to the Guarantee and Collateral Agreement and (iii) agrees that the Borrower Obligations and the Guarantor Obligations (each as defined in the Guarantee and Collateral Agreement) include, among other things and without limitation, the due and punctual payment by the Borrower or the Guarantors, as applicable, when due and payable (whether at the stated maturity, by acceleration or otherwise) of principal and interest on the Loans made pursuant to the Commitments under the Credit Agreement as modified by this Lender Joinder Agreement. </p>
+      <p rendition="{'ulx': '224.64', 'uly': '338.00', 'lrx': '216.00', 'lry': '256.56', 'page': 9, 'is_pdf_active': False}" n="148" id="para-148" ana="intro-page">[Signature Pages Follow] </p>
+      <p rendition="{'ulx': '39.79', 'uly': '325.18', 'lrx': '31.15', 'lry': '269.77', 'page': 10, 'is_pdf_active': False}" n="149" id="para-149" ana="intro-page">GUARANTORS: </p>
+      <p rendition="{'ulx': '55.74', 'uly': '55.17', 'lrx': '45.01', 'lry': '52.51', 'page': 10, 'is_pdf_active': False}" n="150" id="para-150"> </p>
+      <p rendition="{'ulx': '68.00', 'uly': '444.45', 'lrx': '59.36', 'lry': '346.59', 'page': 10, 'is_pdf_active': False}" n="151" id="para-151" ana="intro-page">CD&amp;R PLUMB BUYER, LLC </p>
+      <p rendition="{'ulx': '105.21', 'uly': '458.11', 'lrx': '77.96', 'lry': '346.59', 'page': 10, 'is_pdf_active': False}" n="152" id="para-152" ana="intro-page">By: /s/ <persName>Theresa A. Gore</persName> Name: Theresa A. Gore Title: Vice President and Secretary </p>
+      <p rendition="{'ulx': '118.76', 'uly': '55.17', 'lrx': '108.03', 'lry': '52.51', 'page': 10, 'is_pdf_active': False}" n="153" id="para-153"> </p>
+      <p rendition="{'ulx': '131.02', 'uly': '428.65', 'lrx': '122.38', 'lry': '346.59', 'page': 10, 'is_pdf_active': False}" n="154" id="para-154" ana="intro-page">
+                <orgName>CORE &amp; MAIN GP, LLC</orgName> </p>
+      <p rendition="{'ulx': '168.23', 'uly': '458.11', 'lrx': '140.98', 'lry': '346.59', 'page': 10, 'is_pdf_active': False}" n="155" id="para-155" ana="intro-page">By: /s/ Theresa A. Gore Name: Theresa A. Gore Title: Vice President and Secretary </p>
+      <p rendition="{'ulx': '181.78', 'uly': '55.17', 'lrx': '171.05', 'lry': '52.51', 'page': 10, 'is_pdf_active': False}" n="156" id="para-156"> </p>
+      <p rendition="{'ulx': '194.03', 'uly': '506.38', 'lrx': '185.39', 'lry': '346.59', 'page': 10, 'is_pdf_active': False}" n="157" id="para-157" ana="intro-page">
+                <orgName>CORE &amp; MAIN MANAGEMENT FEEDER, LLC</orgName> </p>
+      <p rendition="{'ulx': '231.24', 'uly': '434.26', 'lrx': '204.00', 'lry': '346.59', 'page': 10, 'is_pdf_active': False}" n="158" id="para-158" ana="intro-page">By: /s/ Mark R. Witkowski Name: Mark R. Witkowski Title: Vice President </p>
+      <p rendition="{'ulx': '240.56', 'uly': '54.34', 'lrx': '233.18', 'lry': '52.51', 'page': 10, 'is_pdf_active': False}" n="159" id="para-159"> </p>
+      <p rendition="{'ulx': '254.05', 'uly': '423.07', 'lrx': '245.41', 'lry': '171.64', 'page': 10, 'is_pdf_active': False}" n="160" id="para-160" ana="intro-page">[Signature Page to Acknowledgment to Lender Joinder Agreement (Blue Point)] </p>
+      <p rendition="{'ulx': '39.79', 'uly': '542.51', 'lrx': '31.15', 'lry': '494.23', 'page': 11, 'is_pdf_active': False}" n="161" id="para-161" ana="intro-page">SCHEDULE A to </p>
+      <p rendition="{'ulx': '53.59', 'uly': '542.31', 'lrx': '44.95', 'lry': '536.24', 'page': 11, 'is_pdf_active': False}" n="162" id="para-162" ana="intro-page">LENDER JOINDER AGREEMENT </p>
+      <p rendition="{'ulx': '100.41', 'uly': '386.42', 'lrx': '91.77', 'lry': '208.25', 'page': 11, 'is_pdf_active': False}" n="163" id="para-163" ana="intro-page">SUPPLEMENTAL TERM LOAN COMMITMENTS </p>
+      <p rendition="{'ulx': '116.36', 'uly': '55.17', 'lrx': '105.63', 'lry': '52.51', 'page': 11, 'is_pdf_active': False}" n="164" id="para-164"> </p>
+      <p rendition="{'ulx': '158.96', 'uly': '177.04', 'lrx': '138.45', 'lry': '52.51', 'page': 11, 'is_pdf_active': False}" n="165" id="para-165" ana="intro-page">Additional Commitment Lender </p>
+      <p rendition="{'ulx': '134.96', 'uly': '258.91', 'lrx': '127.65', 'lry': '230.16', 'page': 11, 'is_pdf_active': False}" n="166" id="para-166" ana="intro-page">Tranche of </p>
+      <p rendition="{'ulx': '142.76', 'uly': '262.82', 'lrx': '135.45', 'lry': '226.56', 'page': 11, 'is_pdf_active': False}" n="167" id="para-167" ana="intro-page">Supplemental </p>
+      <p rendition="{'ulx': '150.56', 'uly': '259.05', 'lrx': '143.25', 'lry': '229.56', 'page': 11, 'is_pdf_active': False}" n="168" id="para-168" ana="intro-page">Term Loan </p>
+      <p rendition="{'ulx': '158.36', 'uly': '272.47', 'lrx': '151.05', 'lry': '227.16', 'page': 11, 'is_pdf_active': False}" n="169" id="para-169" ana="intro-page">Commitment </p>
+      <p rendition="{'ulx': '142.76', 'uly': '351.19', 'lrx': '135.45', 'lry': '327.38', 'page': 11, 'is_pdf_active': False}" n="170" id="para-170" ana="intro-page">Principal </p>
+      <p rendition="{'ulx': '150.56', 'uly': '350.21', 'lrx': '143.25', 'lry': '328.58', 'page': 11, 'is_pdf_active': False}" n="171" id="para-171" ana="intro-page">Amount </p>
+      <p rendition="{'ulx': '158.36', 'uly': '366.09', 'lrx': '151.05', 'lry': '324.68', 'page': 11, 'is_pdf_active': False}" n="172" id="para-172" ana="intro-page">Committed </p>
+      <p rendition="{'ulx': '127.15', 'uly': '446.68', 'lrx': '119.84', 'lry': '419.21', 'page': 11, 'is_pdf_active': False}" n="173" id="para-173" ana="intro-page">Aggregate </p>
+      <p rendition="{'ulx': '134.96', 'uly': '452.36', 'lrx': '127.65', 'lry': '413.51', 'page': 11, 'is_pdf_active': False}" n="174" id="para-174" ana="intro-page">Amount of All </p>
+      <p rendition="{'ulx': '142.76', 'uly': '451.28', 'lrx': '135.45', 'lry': '415.01', 'page': 11, 'is_pdf_active': False}" n="175" id="para-175" ana="intro-page">Supplemental </p>
+      <p rendition="{'ulx': '150.56', 'uly': '447.50', 'lrx': '143.25', 'lry': '418.01', 'page': 11, 'is_pdf_active': False}" n="176" id="para-176" ana="intro-page">Term Loan </p>
+      <p rendition="{'ulx': '158.36', 'uly': '542.20', 'lrx': '151.05', 'lry': '414.41', 'page': 11, 'is_pdf_active': False}" n="177" id="para-177" ana="intro-page">Commitments Maturity Date </p>
+      <p rendition="{'ulx': '167.03', 'uly': '143.02', 'lrx': '158.39', 'lry': '52.51', 'page': 11, 'header_tags': ['Other'], 'is_pdf_active': True}" ana="H_ledgar intro-page" base="jpmorgan chase bank, n.a" xml:id="H_38" n="178" id="para-178">JPMorgan Chase Bank, N.A. </p>
+      <p rendition="{'ulx': '177.23', 'uly': '223.70', 'lrx': '168.59', 'lry': '173.74', 'page': 11, 'is_pdf_active': False}" n="179" id="para-179"> </p>
+      <p rendition="{'ulx': '168.23', 'uly': '267.62', 'lrx': '159.59', 'lry': '230.16', 'page': 11, 'header_tags': ['Other'], 'is_pdf_active': True}" ana="H_ledgar intro-page" base="initial term loan" xml:id="H_41" n="180" id="para-180">Initial Term </p>
+      <p rendition="{'ulx': '177.23', 'uly': '267.07', 'lrx': '168.59', 'lry': '223.55', 'page': 11, 'is_pdf_active': False}" n="181" id="para-181" ana="intro-page">Loan Tranche </p>
+      <p rendition="{'ulx': '177.23', 'uly': '460.32', 'lrx': '159.59', 'lry': '267.37', 'page': 11, 'is_pdf_active': False}" n="182" id="para-182" ana="intro-page"> $225,000,000 $225,000,000 </p>
+      <p rendition="{'ulx': '168.23', 'uly': '538.66', 'lrx': '159.59', 'lry': '508.33', 'page': 11, 'is_pdf_active': False}" n="183" id="para-183" ana="intro-page">August 1, </p>
+      <p rendition="{'ulx': '177.23', 'uly': '531.44', 'lrx': '168.59', 'lry': '515.84', 'page': 11, 'is_pdf_active': False}" n="184" id="para-184" ana="intro-page">2024 </p>
+      <p rendition="{'ulx': '198.23', 'uly': '301.89', 'lrx': '189.59', 'lry': '52.51', 'page': 11, 'header_tags': ['Other'], 'is_pdf_active': True}" ana="H_ledgar intro-page" base="effective date of lender joinder agreement" xml:id="H_44" n="185" id="para-185">Effective Date of Lender Joinder Agreement: As specified in Section B.3 above. </p>
+      <p rendition="{'ulx': '221.64', 'uly': '227.93', 'lrx': '213.00', 'lry': '52.51', 'page': 11, 'header_tags': ['Other'], 'is_pdf_active': True}" ana="H_ledgar intro-page" base="notice address" xml:id="H_45" n="186" id="para-186">Notice Address for the Additional Commitment Lender: </p>
+      <p rendition="{'ulx': '235.44', 'uly': '143.02', 'lrx': '226.80', 'lry': '52.51', 'page': 11, 'header_tags': ['Other'], 'is_pdf_active': True}" ana="H_ledgar intro-page" base="jpmorgan chase bank, n.a" xml:id="H_48" n="187" id="para-187">JPMorgan Chase Bank, N.A. </p>
+      <p rendition="{'ulx': '249.25', 'uly': '119.65', 'lrx': '240.61', 'lry': '52.51', 'page': 11, 'is_pdf_active': False}" n="188" id="para-188" ana="intro-page">383 Madison Avenue </p>
+      <p rendition="{'ulx': '263.05', 'uly': '143.24', 'lrx': '254.41', 'lry': '52.51', 'page': 11, 'header_tags': ['Other'], 'is_pdf_active': True}" ana="H_ledgar intro-page" base="new york" xml:id="H_50" n="189" id="para-189">New York, New York 10179 </p>
+      <p rendition="{'ulx': '39.79', 'uly': '542.25', 'lrx': '31.15', 'lry': '510.43', 'page': 12, 'is_pdf_active': False}" n="190" id="para-190" ana="intro-page">ANNEX I to </p>
+      <p rendition="{'ulx': '53.59', 'uly': '542.31', 'lrx': '44.95', 'lry': '536.24', 'page': 12, 'header_tags': ['Other'], 'is_pdf_active': True}" ana="H_ledgar intro-page" base="lender joinder agreement" xml:id="H_52" n="191" id="para-191">LENDER JOINDER AGREEMENT </p>
+      <p rendition="{'ulx': '100.41', 'uly': '310.11', 'lrx': '91.77', 'lry': '284.77', 'page': 12, 'header_tags': ['Other'], 'is_pdf_active': True}" ana="H_ledgar intro-page" base="annex i" xml:id="H_54" n="192" id="para-192">Annex I </p>
+      <p rendition="{'ulx': '123.81', 'uly': '530.08', 'lrx': '115.17', 'lry': '71.71', 'page': 12, 'is_pdf_active': False}" n="193" id="para-193" ana="intro-page">“Blue Point Acquisition”: the acquisition by the Borrower of certain assets of <orgName>Long Island Pipe Supply, Inc.</orgName> pursuant to the Blue Point Acquisition </p>
+      <p rendition="{'ulx': '137.62', 'uly': '89.10', 'lrx': '128.98', 'lry': '52.51', 'page': 12, 'is_pdf_active': False}" n="194" id="para-194" ana="intro-page">Agreement. </p>
+      <p rendition="{'ulx': '161.02', 'uly': '537.43', 'lrx': '152.38', 'lry': '71.71', 'page': 12, 'is_pdf_active': False}" n="195" id="para-195" ana="intro-page">“Blue Point Acquisition Agreement”: the Asset Purchase Agreement, made entered into as of May 1, 2019, by and among the Borrower, <placeName>Long Island</placeName> </p>
+      <p rendition="{'ulx': '174.83', 'uly': '517.51', 'lrx': '166.19', 'lry': '52.51', 'page': 12, 'is_pdf_active': False}" n="196" id="para-196" ana="intro-page">Pipe Supply Company, Inc., a New York corporation (“LIP”), the Sellers (as defined therein), <persName>Robert Moss</persName>, a resident of <placeName>Nassau County</placeName>, New York, </p>
+      <p rendition="{'ulx': '188.63', 'uly': '434.71', 'lrx': '179.99', 'lry': '52.51', 'page': 12, 'is_pdf_active': False}" n="197" id="para-197" ana="intro-page">
+                <persName>Bradley Moss</persName>, a resident of New York County, New York and <persName>Michael Moss</persName>, a resident of New York County, New York. </p>
+      <p rendition="{'ulx': '212.04', 'uly': '512.78', 'lrx': '203.40', 'lry': '71.71', 'page': 12, 'is_pdf_active': False}" n="198" id="para-198" ana="intro-page">“Blue Point Committed Lenders”: JPMorgan Chase Bank, N.A., Citigroup Global Markets Inc., <orgName>Bank of America,</orgName> N.A., Barclays Bank PLC, </p>
+      <p rendition="{'ulx': '225.84', 'uly': '519.61', 'lrx': '217.20', 'lry': '52.51', 'page': 12, 'is_pdf_active': False}" n="199" id="para-199" ana="intro-page">Deutsche Bank AG New York Branch, Royal Bank of Canada, Goldman Sachs Bank USA, <orgName>Branch Banking and Trust Company</orgName>, <orgName>U.S. Bank National</orgName> </p>
+      <p rendition="{'ulx': '239.65', 'uly': '368.21', 'lrx': '231.01', 'lry': '52.51', 'page': 12, 'header_tags': ['Other'], 'is_pdf_active': True}" ana="H_ledgar intro-page" base="association" xml:id="H_55" n="200" id="para-200">Association, <orgName>Credit Suisse AG</orgName>, Natixis, New York Branch, and <orgName>Nomura Securities International, Inc.</orgName> </p>
+      <p rendition="{'ulx': '263.05', 'uly': '523.22', 'lrx': '254.41', 'lry': '71.71', 'page': 12, 'is_pdf_active': False}" n="201" id="para-201" ana="intro-page">“Blue Point Lead Arrangers”: in respect of the Supplemental Term Loan Commitments contemplated hereby, JPMorgan Chase Bank, N.A., Citi, </p>
+      <p rendition="{'ulx': '276.86', 'uly': '526.09', 'lrx': '267.49', 'lry': '52.51', 'page': 12, 'header_tags': ['Other'], 'is_pdf_active': True}" ana="H_ledgar intro-page" base="merrill lynch, pierce, fenner &amp; smith incorporated," xml:id="H_56" n="202" id="para-202">Merrill Lynch, <orgName>Pierce, Fenner &amp; Smith Incorporated</orgName>, Barclays Bank PLC, Deutsche Bank Securities Inc., <orgName>RBC Capital Markets1</orgName>, <orgName>Goldman Sachs Bank</orgName> </p>
+      <p rendition="{'ulx': '290.66', 'uly': '528.51', 'lrx': '282.02', 'lry': '52.51', 'page': 12, 'is_pdf_active': False}" n="203" id="para-203" ana="intro-page">USA, Branch Banking and Trust Company, U.S. Bank National Association, <orgName>Credit Suisse Loan Funding LLC</orgName>, Natixis, New York Branch, and Nomura </p>
+      <p rendition="{'ulx': '304.46', 'uly': '220.97', 'lrx': '295.82', 'lry': '52.51', 'page': 12, 'is_pdf_active': False}" n="204" id="para-204" ana="intro-page">Securities International, Inc., as Joint Lead Arrangers. </p>
+      <p rendition="{'ulx': '327.87', 'uly': '527.71', 'lrx': '319.23', 'lry': '71.71', 'page': 12, 'is_pdf_active': False}" n="205" id="para-205" ana="intro-page">“Blue Point Transactions”: any or all of the following (whether taking place prior to, on or following the Effective Date): ( i) the entry into the Blue </p>
+      <p rendition="{'ulx': '341.67', 'uly': '533.61', 'lrx': '333.03', 'lry': '52.51', 'page': 12, 'is_pdf_active': False}" n="206" id="para-206" ana="intro-page">Point Acquisition Agreement and the consummation of the transactions contemplated thereby, including the Blue Point Acquisition, (ii) the entry into that certain Amendment No. 1 to the Existing ABL Credit Agreement, dated as of the Effective Date and any incurrence of Indebtedness under the Existing ABL </p>
+      <p rendition="{'ulx': '369.28', 'uly': '504.14', 'lrx': '360.64', 'lry': '52.51', 'page': 12, 'is_pdf_active': False}" n="207" id="para-207" ana="intro-page">Credit Agreement, (iii) the entry into this Lender Joinder Agreement and incurrence of the Supplemental Term Loans hereunder and ( iv) all other transactions relating to any of the foregoing (including payment of fees, premiums and expenses related to any of the foregoing). </p>
+      <p rendition="{'ulx': '406.49', 'uly': '542.82', 'lrx': '397.85', 'lry': '71.71', 'page': 12, 'is_pdf_active': False}" n="208" id="para-208" ana="intro-page">“Citi”: Citigroup Global Markets Inc., Citibank, N.A., Citigroup, <orgName>USA, Inc.</orgName>, <orgName>Citigroup North America, Inc.</orgName> and/or any of their affiliates as any of them shall determine to be appropriate to provide the services contemplated pursuant to the Supplemental Term Loan Commitments. 1 RBC Capital Markets is a marketing name for the capital markets activities of Royal Bank of Canada and its affiliates. </p>
+      <p rendition="{'ulx': '39.79', 'uly': '518.50', 'lrx': '31.15', 'lry': '71.71', 'page': 13, 'is_pdf_active': False}" n="209" id="para-209" ana="intro-page">“Company”: collectively, the assets of Long Island Pipe Supply, Inc. being acquired in connection with the Blue Point Acquisition Agreement. </p>
+      <p rendition="{'ulx': '63.20', 'uly': '530.44', 'lrx': '54.56', 'lry': '71.71', 'page': 13, 'is_pdf_active': False}" n="210" id="para-210" ana="intro-page">“Existing ABL Credit Agreement”: ABL Credit Agreement, dated as of August 1, 2017 (as amended, supplemented, waived or otherwise modified from time to time), among the Borrower, the subsidiary borrowers from time to time party thereto, the several banks and other financial institutions from time to time party thereto and Citibank, N.A., as administrative agent and collateral agent. </p>
+      <p rendition="{'ulx': '102.52', 'uly': '54.34', 'lrx': '95.14', 'lry': '52.51', 'page': 13, 'is_pdf_active': False}" n="211" id="para-211"> </p>
+      <p rendition="{'ulx': '116.01', 'uly': '301.28', 'lrx': '107.37', 'lry': '293.47', 'page': 13, 'is_pdf_active': False}" n="212" id="para-212" ana="intro-page">14 </p>
+    </body>
+  </text>
+</TEI>

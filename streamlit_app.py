@@ -2,6 +2,22 @@ import streamlit as st
 import openai
 from llama_index.llms.openai import OpenAI
 from llama_index.core import VectorStoreIndex, SimpleDirectoryReader, Settings
+from fetch_xml import download_xml
+from loguru import logger
+
+doc_count = 0
+xml_keys = [
+    "103/4358e331f543193440f7c1079da8340a/main.xml",
+    "101/a59d184cf9cc2cfecb331c7cd5a864fe/main.xml",
+    "1948/2ef55d9483753350b06babffe4398b1d/main.xml",
+    "2411/5aa58b4e43cde8bb9d30d5ae5d9df161/main.xml",
+    "316/bf55ae07c86b2ca8f77ffb1c73c5aeb7/main.xml",
+    "2411/650574620140779d010f0f0dd5d1e953/main.xml",
+    "95/7afc742ac66003fb5cf5ee0da30c49ce/main.xml"
+]
+for xml_key in xml_keys:
+    if download_xml(xml_key):
+        doc_count+=1
 
 st.set_page_config(page_title="Chat with the Streamlit docs, powered by LlamaIndex", page_icon="🦙", layout="centered", initial_sidebar_state="auto", menu_items=None)
 openai.api_key = st.secrets.openai_key
@@ -12,24 +28,26 @@ if "messages" not in st.session_state.keys():  # Initialize the chat messages hi
     st.session_state.messages = [
         {
             "role": "assistant",
-            "content": "Ask me a question about Streamlit's open-source Python library!",
+            "content": f"Ask me a question about these {doc_count} infrastructure contracts!",
         }
     ]
 
 @st.cache_resource(show_spinner=False)
 def load_data():
     reader = SimpleDirectoryReader(input_dir="./data", recursive=True)
-    docs = reader.load_data()
+    logger.info(reader.input_files)
+    docs = reader.load_data(show_progress=True)
     Settings.llm = OpenAI(
         model="gpt-3.5-turbo",
-        temperature=0.2,
-        system_prompt="""You are an expert on 
-        the Streamlit Python library and your 
-        job is to answer technical questions. 
+        temperature=0.7,
+        system_prompt=f"""You are a laywer and 
+        have been given {doc_count} infrastructure agreements in XML format.
+        Your job is to answer technical questions about the agreements.
         Assume that all questions are related 
-        to the Streamlit Python library. Keep 
+        to these {doc_count} agreements. Keep 
         your answers technical and based on 
-        facts – do not hallucinate features.""",
+        the text of the documents – do not hallucinate features. 
+        """
     )
     index = VectorStoreIndex.from_documents(docs)
     return index

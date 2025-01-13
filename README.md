@@ -29,4 +29,6 @@ Alternatively, you can use [Streamlit Community Cloud's secrets management featu
 
 ## Try out the app
 
+
+`poetry run python3 -m streamlit_app`
 Once the app is loaded, enter your question about the Streamlit library and wait for a response.
