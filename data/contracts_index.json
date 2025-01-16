@@ -1,0 +1,285 @@
+{
+    "mappings": {
+        "properties": {
+            "contract_date": {
+                "type": "date"
+            },
+            "date_published": {
+                "type": "date"
+            },
+            "financial_level": {
+                "type": "text",
+                "fields": {
+                    "keyword": {
+                        "type": "keyword",
+                        "ignore_above": 256
+                    }
+                }
+            },
+            "contract_id": {
+                "type": "long"
+            },
+            "doc_id": {
+                "type": "long"
+            },
+            "contract_name": {
+                "type": "text",
+                "fields": {
+                    "keyword": {
+                        "type": "keyword",
+                        "ignore_above": 256
+                    }
+                }
+            },
+            "country": {
+                "type": "text",
+                "fields": {
+                    "keyword": {
+                        "type": "keyword",
+                        "ignore_above": 256
+                    }
+                }
+            },
+            "country_iso3": {
+                "type": "text",
+                "fields": {
+                    "keyword": {
+                        "type": "keyword",
+                        "ignore_above": 256
+                    }
+                }
+            },
+            "doc_type": {
+                "type": "text",
+                "fields": {
+                    "keyword": {
+                        "type": "keyword",
+                        "ignore_above": 256
+                    }
+                }
+            },
+            "lender": {
+                "type": "text",
+                "fields": {
+                    "keyword": {
+                        "type": "keyword",
+                        "ignore_above": 256
+                    }
+                }
+            },
+            "other_party": {
+                "type": "text",
+                "fields": {
+                    "keyword": {
+                        "type": "keyword",
+                        "ignore_above": 256
+                    }
+                }
+            },
+            "party": {
+                "type": "text",
+                "fields": {
+                    "keyword": {
+                        "type": "keyword",
+                        "ignore_above": 256
+                    }
+                }
+            },
+            "pdf_key": {
+                "type": "text",
+                "fields": {
+                    "keyword": {
+                        "type": "keyword",
+                        "ignore_above": 256
+                    }
+                }
+            },
+            "s3_uuid": {
+                "type": "text",
+                "fields": {
+                    "keyword": {
+                        "type": "keyword",
+                        "ignore_above": 256
+                    }
+                }
+            },
+            "project": {
+                "type": "text",
+                "fields": {
+                    "keyword": {
+                        "type": "keyword",
+                        "ignore_above": 256
+                    }
+                }
+            },
+            "project_id": {
+                "type": "long"
+            },
+            "region": {
+                "type": "text",
+                "fields": {
+                    "keyword": {
+                        "type": "keyword",
+                        "ignore_above": 256
+                    }
+                }
+            },
+            "sector": {
+                "type": "text",
+                "fields": {
+                    "keyword": {
+                        "type": "keyword",
+                        "ignore_above": 256
+                    }
+                }
+            },
+            "sponsor": {
+                "type": "text",
+                "fields": {
+                    "keyword": {
+                        "type": "keyword",
+                        "ignore_above": 256
+                    }
+                }
+            },
+            "subsector": {
+                "type": "text",
+                "fields": {
+                    "keyword": {
+                        "type": "keyword",
+                        "ignore_above": 256
+                    }
+                }
+            },
+            "subtype_names": {
+                "type": "text",
+                "fields": {
+                    "keyword": {
+                        "type": "keyword",
+                        "ignore_above": 256
+                    }
+                }
+            },
+            "subtype_display_text": {
+                "type": "text"
+            },
+            "version": {
+                "type": "text",
+                "fields": {
+                    "keyword": {
+                        "type": "keyword",
+                        "ignore_above": 256
+                    }
+                }
+            },
+            "version_num": {
+                "type": "long"
+            },
+            "doc_type_tags": {
+                "type": "text",
+                "fields": {
+                    "keyword": {
+                        "type": "keyword",
+                        "ignore_above": 256
+                    }
+                }
+            },
+            "doc_type_parent_category": {
+                "type": "text",
+                "fields": {
+                    "keyword": {
+                        "type": "keyword",
+                        "ignore_above": 256
+                    }
+                }
+            },
+            "doc_type_sub_category": {
+                "type": "text",
+                "fields": {
+                    "keyword": {
+                        "type": "keyword",
+                        "ignore_above": 256
+                    }
+                }
+            },
+            "doc_type_category": {
+                "type": "text",
+                "fields": {
+                    "keyword": {
+                        "type": "keyword",
+                        "ignore_above": 256
+                    }
+                }
+            },
+            "has_terms": {
+                "type": "boolean"
+            },
+            "all_time_popularity": {
+                "type": "long"
+            },
+            "monthly_popularity": {
+                "type": "long"
+            },
+            "weekly_popularity": {
+                "type": "long"
+            },
+            "summary": {
+                "type": "text"
+            },
+            "key_term_org": {
+                "type": "text"
+            },
+            "key_term_gpe": {
+                "type": "text"
+            },
+            "key_term_date": {
+                "type": "text"
+            },
+            "key_term_time": {
+                "type": "text"
+            },
+            "key_term_percent": {
+                "type": "text"
+            },
+            "key_term_money": {
+                "type": "text"
+            },
+            "key_term_fac": {
+                "type": "text"
+            },
+            "key_term_norp": {
+                "type": "text"
+            },
+            "key_term_person": {
+                "type": "text"
+            },
+            "key_term_quantity": {
+                "type": "text"
+            },
+            "key_term_loc": {
+                "type": "text"
+            },
+            "key_term_product": {
+                "type": "text"
+            },
+            "key_term_event": {
+                "type": "text"
+            },
+            "key_term_language": {
+                "type": "text"
+            },
+            "key_term_law": {
+                "type": "text"
+            },
+            "key_term_ordinal": {
+                "type": "text"
+            },
+            "key_term_cardinal": {
+                "type": "text"
+            },
+            "key_term_work_of_art": {
+                "type": "text"
+            }
+        }
+    }
+}
