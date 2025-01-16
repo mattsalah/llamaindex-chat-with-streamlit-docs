@@ -1,0 +1,336 @@
+.6
+LENDER JOINDER AGREEMENT
+THIS LENDER JOINDER AGREEMENT, dated as of July 8, 2019 (this “Lender Joinder Agreement”), by and among JPMORGAN CHASE BANK,
+N.A. (in such capacity, the “Additional Commitment Lender”), CORE & MAIN LP (formerly known as HD Supply Waterworks, Ltd., a Florida limited
+partnership (as successor by merger to CD&R Waterworks Merger Sub, LLC, a Delaware limited liability company)) (the “Borrower”), a Florida limited
+partnership, and JPMORGAN CHASE BANK, N.A., as administrative agent (in such capacity, the “Administrative Agent”) for the Lenders and as
+collateral agent for the Secured Parties. Unless otherwise defined herein or on Annex I hereto, terms defined in the Credit Agreement referred to below and
+used herein shall have the meanings given to them in the Credit Agreement.
+RECITALS:
+WHEREAS, reference is made to the Term Loan Credit Agreement, dated as of August 1, 2017 (as amended, supplemented, waived or otherwise
+modified from time to time, the “Credit Agreement”), among the Borrower, the several banks and other financial institutions from time to time party thereto
+(the “Lenders”) and the Administrative Agent;
+WHEREAS, subject to the terms and conditions of the Credit Agreement, the Borrower may add Supplemental Term Loan Commitments of one or
+more Additional Commitment Lenders by entering into one or more Lender Joinder Agreements; and
+WHEREAS, the form of this Lender Joinder Agreement is appropriate in the opinion of the Borrower and the Administrative Agent to give effect to
+the making of the Supplemental Term Loans pursuant to the Supplemental Term Loan Commitments set forth on Schedule A annexed hereto.
+NOW, THEREFORE, in consideration of the premises and agreements, provisions and covenants herein contained, the parties hereto agree as follows:
+A. The Additional Commitment Lender hereby agrees to commit to provide its Commitments as set forth on Schedule A annexed hereto, on the
+terms and subject to the conditions set forth below:
+The Additional Commitment Lender (a) represents and warrants that it is legally authorized to enter into this Lender Joinder Agreement; (b) confirms
+that it has received a copy of the Credit Agreement, together with copies of the financial statements referred to in Subsections 5.1 and 7.1 of the Credit
+Agreement and such other documents and information as it has deemed appropriate to make its own credit analysis and decision to enter into this Lender
+Joinder Agreement; (c) agrees that it will, independently and without reliance upon the Administrative Agent or any other Lender and based on such
+documents and information as it shall deem appropriate at the time, continue to make its own credit decisions in taking or not taking action under the Credit
+Agreement, the other Loan Documents or any other instrument or document furnished pursuant hereto or thereto; (d) appoints and authorizes each
+applicable Agent to take such action as agent on its behalf and to exercise such powers and discretion under the Credit Agreement, the other Loan
+Documents or any other instrument or document furnished
+pursuant hereto or thereto as are delegated to each such Agent, as applicable, by the terms thereof, together with such powers as are incidental thereto;
+(e) hereby affirms the acknowledgments and representations of the Additional Commitment Lender as a Lender contained in Subsection 10.5 of the Credit
+Agreement; and (f) agrees that it will be bound by the provisions of the Credit Agreement and will perform in accordance with the terms of the Credit
+Agreement all the obligations which by the terms of the Credit Agreement are required to be performed by it as a Lender, including its obligations pursuant
+to Subsection 11.16 of the Credit Agreement, and, if it is organized under the laws of a jurisdiction outside the United States, its obligations pursuant to
+Subsection 4.11(b) of the Credit Agreement.
+B. The Additional Commitment Lender hereby agrees to make its Supplemental Term Loan Commitment on the following terms and conditions
+on the Effective Date (as defined below):
+1.
+Additional Commitment Lender to Be a Lender. The Additional Commitment Lender acknowledges and agrees that upon its execution of this
+Lender Joinder Agreement that the Additional Commitment Lender shall on and as of the Effective Date become a “Lender” with respect to
+the Term Loan Tranche indicated on Schedule A, under, and for all purposes of, the Credit Agreement and the other Loan Documents, shall be
+subject to and bound by the terms thereof, shall perform all the obligations of and shall have all rights of a Lender thereunder, and shall make
+available such amount to fund its ratable share of outstanding Supplemental Term Loan Commitments on the Effective Date as the
+Administrative Agent may instruct.
+2.
+Certain Delivery Requirements. The Additional Commitment Lender has delivered or shall deliver herewith to the Borrower and the
+Administrative Agent such forms, certificates or other evidence with respect to United States federal income tax withholding matters as the
+Additional Commitment Lender may be required to deliver to the Borrower and the Administrative Agent pursuant to Subsection 4.11 of the
+Credit Agreement.
+3.
+Credit Agreement Amendments. Pursuant to Subsection 2.8 of the Credit Agreement, on the Effective Date, the Credit Agreement is hereby
+amended as follows:
+a.
+Subsection 1.1 of the Credit Agreement is hereby amended by adding the following new definition, to appear in proper
+alphabetical order:
+“First Lender Joinder Agreement Effective Date”: July 8, 2019.
+b.
+Subsection 2.2(b) of the Credit Agreement is hereby amended and restated as follows:
+“(b) The Initial Term Loans of all the Lenders shall be payable in consecutive quarterly installments beginning on
+January 26, 2018 up to and including the Initial Term Loan Maturity Date (subject to reduction as provided in Subsection
+4.4), on the dates (each such date, an “Installment Date”) and in the principal amounts, subject
+2
+to adjustment as set forth below, equal to the respective amounts set forth below (together with all accrued interest
+thereon) opposite the applicable Installment Dates (or, if less, the aggregate amount of such Initial Term Loans then
+outstanding):
+Date
+The last Business Day of each Fiscal Quarter ending prior to the
+First Lender Joinder Agreement Effective Date
+The last Business Day of each Fiscal Quarter ending on or after
+the First Lender Joinder Agreement Effective Date and prior to
+the Initial Term Loan Maturity Date
+Initial Term Loan Maturity Date
+”.
+4.
+Conditions to Effectiveness. This Lender Joinder Agreement, including the agreement of the Additional Commitment Lender to make the
+Supplemental Term Loans requested to be made by it, shall become effective on the date (the “Effective Date”) on which the following
+conditions shall have been satisfied or waived:
+a.
+b.
+the Administrative Agent shall have received (i) this Lender Joinder Agreement, executed and delivered by the Borrower, the
+Administrative Agent and the Additional Commitment Lender, and (ii) the acknowledgment and consent attached to this Lender Joinder
+Agreement (the “Acknowledgment”), executed and delivered by each Guarantor;
+the Administrative Agent shall have received a certificate from the Borrower and, substantially concurrently with the satisfaction of the
+other conditions precedent set forth in this Section B.4, each other Loan Party, dated as of the Effective Date, substantially in the form
+of Exhibit F to the Credit Agreement, with appropriate insertions and attachments of resolutions or other actions, evidence of
+incumbency and the signature of authorized signatories and Organizational Documents, executed by a Responsible Officer and the
+Secretary or any Assistant Secretary or other authorized representative of such Loan Party;
+3
+$3,258,565.99
+all unpaid aggregate principal amounts of any outstanding
+Initial Term Loans
+Amount
+0.25% of the aggregate initial principal amount of the Initial
+Term Loans on the Closing Date
+c.
+the Administrative Agent shall have received the following executed legal opinions, each in form and substance reasonably satisfactory
+to the Administrative Agent:
+i.
+ii.
+executed legal opinion of Debevoise & Plimpton LLP, counsel to the Borrower and the other Loan Parties;
+executed legal opinion of Holland & Knight LLP, special Florida counsel to certain of the Loan Parties;
+d.
+the Administrative Agent and the Blue Point Lead Arrangers shall have received at least three Business Days prior to the Effective Date
+all documentation and information about the Borrower and the Guarantors mutually agreed to be required by U.S. regulatory authorities
+under applicable “know your customer” and anti-money laundering rules and regulations, including the Patriot Act and the Customer
+Due Diligence Requirements for Financial Institutions issued by the U.S. Department of Treasury Financial Crimes Enforcement
+Network under the Bank Secrecy Act (as published May 11, 2016 and effective May 11, 2018, as amended from time to time), that has
+been reasonably requested in writing by the applicable Blue Point Lead Arranger at least 12 Business Days prior to the Effective Date;
+e.
+f.
+g.
+h.
+the Blue Point Committed Lenders and the Blue Point Lead Arrangers shall have received all fees related to the Blue Point Transactions
+payable to them to the extent due which may be offset against the proceeds of the initial borrowing of the Supplemental Term Loans
+contemplated hereby;
+the Blue Point Lead Arrangers shall have received a certificate of the chief financial officer or treasurer (or other comparable officer) of
+the Borrower certifying the Solvency, after giving effect to the Blue Point Transactions, of the Borrower and its Subsidiaries on a
+consolidated basis in substantially the form of Exhibit H to the Credit Agreement;
+From the date of the Blue Point Acquisition Agreement, there has not occurred any Material Adverse Effect (as defined in the Blue
+Point Acquisition Agreement), nor has any event or events occurred that, individually or in the aggregate, with or without lapse of time,
+could reasonably be expected to result in a Material Adverse Effect (as defined in the Blue Point Acquisition Agreement);
+the Blue Point Acquisition shall have been or, substantially concurrently with the initial borrowing of the Supplemental Term Loans
+contemplated hereby shall be, consummated in all material respects in accordance with the terms of the Blue Point Acquisition
+Agreement, without giving effect to any modifications, amendments, express waivers or express consents thereunder by the Borrower
+that are materially adverse to the Additional
+4
+Commitment Lender without the consent of the Blue Point Lead Arrangers (such consent not to be unreasonably withheld, conditioned
+or delayed and provided that the Blue Point Lead Arrangers shall be deemed to have consented to such modification, amendment,
+waiver or consent unless they shall object thereto within three Business Days after receipt of written notice of such modification,
+amendment, waiver or consent), it being understood and agreed that (i) any change in the Purchase Price (as defined in the Blue Point
+Acquisition Agreement) shall not be deemed to be materially adverse to the Additional Commitment Lender but (x) any resulting
+reduction in cash uses shall be allocated to a reduction in the Supplemental Term Loan Commitments and (y) any increase in the
+Purchase Price (as defined in the Blue Point Acquisition Agreement) (excluding, for the avoidance of doubt, any purchase price
+adjustments in accordance with the terms of the Blue Point Acquisition Agreement) shall be funded (at the Borrower’s option) with cash
+on hand and up to $25.0 million of ABL Facility Loans (as defined in the Credit Agreement) and (ii) any modification, amendment,
+express waiver or express consent to the definition of “Material Adverse Effect” in the Blue Point Acquisition Agreement shall be
+deemed to be materially adverse to the Additional Commitment Lender; provided that the Blue Point Lead Arrangers shall be deemed to
+have consented to such modification, amendment, express waiver or express consent unless they shall object thereto within three
+Business Days after receipt of written notice of such modification, amendment, express waiver or express consent;
+i.
+the Blue Point Lead Arrangers shall have received (i) audited consolidated balance sheets and related statements of operations, equity
+and cash flows of the Borrower for the fiscal years ended January 28, 2018 and February 3, 2019, (ii) unaudited consolidated balance
+sheets and related statements of operations and cash flows of the Borrower for any subsequent fiscal quarter and the portion of the fiscal
+year through the end of such quarter (other than, in each case, the fourth fiscal quarter of any fiscal year) ended at least 60 days prior to
+the Effective Date, (iii) reviewed combined balance sheets and related statements of income and equity and cash flows of the Company
+for the fiscal years ended December 31, 2017 and December 31, 2018 and (iv) unreviewed combined balance sheets and related
+statements of income of the Company for any subsequent fiscal quarter and the portion of the fiscal year through the end of such quarter
+(other than, in each case, the fourth fiscal quarter of any fiscal year) ended at least 60 days prior to the Effective Date;
+j.
+(i) the condition in Section 7.02(a) of the Blue Point Acquisition Agreement (but only with respect to the representations that are
+material to the interests of the Additional Commitment Lender, and only to the extent that the Borrower (and any of its Affiliates that is
+a party to the Blue Point Acquisition Agreement) has the right to terminate its (and their) obligations under the Blue Point Acquisition
+Agreement (or
+5
+otherwise decline to consummate the Blue Point Acquisition) without liability to the Borrower or any of its Affiliates as a result of a
+breach of such representations in the Blue Point Acquisition Agreement (the “Seller Representations”; provided that the representation
+set forth in Section 4.06(a) of the Blue Point Acquisition Agreement shall be deemed a Seller Representation)) shall have been satisfied
+and (ii) the Specified Representations (as defined in the Credit Agreement) shall be true and correct in all material respects, except to the
+extent they relate to a particular date in which case such Specified Representations shall be true and correct in all material respects on
+and as of such date as if made on and as of such date;
+k.
+l.
+the Administrative Agent shall have received a certificate from a Responsible Officer of the Borrower, dated as of the Effective Date,
+substantially in the form of Exhibit G to the Credit Agreement; and
+the Collateral Agent shall have received customary lien searches in the United States reasonably requested by it at least 30 calendar days
+prior to the Effective Date; provided that if such lien searches have not been delivered to the Collateral Agent on or prior to the Effective
+Date after the Borrower’s commercially reasonable efforts to do so, then delivery of such lien searches shall not constitute a condition
+precedent to the initial borrowing of the Supplemental Term Loans contemplated hereby if the Borrower agrees to deliver or cause to be
+delivered such lien searches pursuant to arrangements to be mutually agreed between the Borrower and the Administrative Agent.
+m.
+no Event of Default under Subsection 9.1(a) or (f) under the Credit Agreement shall have occurred and been continuing on May 1,
+2019.
+The making of the Supplemental Term Loans by the Additional Commitment Lender hereunder shall conclusively be deemed to constitute an
+acknowledgment by the Administrative Agent and the Additional Commitment Lender that each of the conditions precedent set forth in this
+Section B.4 shall have been satisfied in accordance with its respective terms or shall have been irrevocably waived by such Person.
+5.
+Representations and Warranties. In order to induce the Additional Commitment Lender to enter into this Lender Joinder Agreement, the
+Borrower represents and warrants to the Additional Commitment Lender and the Administrative Agent that on and as of the Effective Date,
+each of the representations and warranties required to be made by any Loan Party pursuant to the Credit Agreement and any other Loan
+Document to which it is a party pursuant to Section B.4(j)(ii) shall, except to the extent that they relate to a particular date, be true and correct
+in all material respects on and as of the Effective Date as if made on and as of such date.
+6
+6.
+Reference to and Effect on the Credit Agreement and the Notes. On and after the effectiveness of this Lender Joinder Agreement, each
+reference in the Credit Agreement to “this Agreement”, “hereunder”, “hereof” or words of like import referring to the Credit Agreement, and
+each reference in the Notes and each of the other Loan Documents to “the Credit Agreement”, “thereunder”, “thereof” or words of like import
+referring to the Credit Agreement, shall mean and be a reference to the Credit Agreement, as modified by this Lender Joinder Agreement. The
+Credit Agreement and each of the other Loan Documents, as specifically modified by this Lender Joinder Agreement, are and shall continue to
+be in full force and effect and are hereby in all respects ratified and confirmed. The execution, delivery and effectiveness of this Lender
+Joinder Agreement shall not, except as expressly provided herein, operate as an amendment or waiver of any right, power or remedy of any
+Lender or any Agent under any of the Loan Documents, nor constitute an amendment or waiver of any provision of any of the Loan
+Documents. The Borrower hereby expressly acknowledges the terms of this Lender Joinder Agreement and reaffirms, as of the date hereof,
+(i) the covenants and agreements contained in each Loan Document to which it is a party, including, in each case, such covenants and
+agreements as in effect immediately after giving effect to this Lender Joinder Agreement and the transactions contemplated hereby and (ii) its
+grant of Liens on the Collateral to secure the Term Loan Facility Obligations (including, without limitation, in respect of the Supplemental
+Term Loans contemplated hereby) pursuant to the Security Documents. This Lender Joinder Agreement does not constitute a novation of any
+Obligations.
+7.
+8.
+9.
+10.
+11.
+12.
+Credit Agreement Governs. Except as set forth in this Lender Joinder Agreement, Supplemental Term Loan Commitments shall otherwise be
+subject to the provisions of the Credit Agreement and the other Loan Documents.
+Notice. For purposes of the Credit Agreement, the initial notice address of the Additional Commitment Lender shall be as set forth on
+Schedule A annexed hereto.
+Recordation of the New Loans. Upon execution, delivery and effectiveness hereof, the Administrative Agent will record the Supplemental
+Term Loan Commitments made by the Additional Commitment Lender in the Register.
+Tax Matters. The parties hereto intend to treat the Initial Term Loans outstanding immediately prior to the Effective Date and the
+Supplemental Term Loans as one fungible tranche for U.S. federal and applicable state and local income tax purposes.
+Amendment, Modification and Waiver. This Lender Joinder Agreement may not be amended, modified or waived except by an instrument or
+instruments in writing signed and delivered on behalf of each of the parties hereto.
+Entire Agreement. This Lender Joinder Agreement, the Credit Agreement and the other Loan Documents represent the entire agreement
+among the parties with respect to the subject matter hereof, and there are no promises, undertakings, representations or warranties by any of the
+parties relative to the subject matter hereof not expressly set forth or referred to herein or in the other Loan Documents.
+7
+13. GOVERNING LAW. THIS LENDER JOINDER AGREEMENT AND THE RIGHTS AND OBLIGATIONS OF THE PARTIES
+HEREUNDER SHALL BE GOVERNED BY, AND CONSTRUED AND INTERPRETED IN ACCORDANCE WITH, THE LAW OF THE
+STATE OF NEW YORK, WITHOUT GIVING EFFECT TO ITS PRINCIPLES OR RULES OF CONFLICT OF LAWS TO THE EXTENT
+SUCH PRINCIPLES OR RULES ARE NOT MANDATORILY APPLICABLE BY STATUTE AND WOULD REQUIRE OR PERMIT THE
+APPLICATION OF THE LAWS OF ANOTHER JURISDICTION.
+14.
+15.
+Severability. Any provision of this Lender Joinder Agreement which is prohibited or unenforceable in any jurisdiction shall, as to such
+jurisdiction, be ineffective to the extent of such prohibition or unenforceability without invalidating the remaining provisions hereof, and any
+such prohibition or unenforceability in any jurisdiction shall not invalidate or render unenforceable such provision in any other jurisdiction.
+Counterparts. This Lender Joinder Agreement may be executed by one or more of the parties to this Lender Joinder Agreement on any number
+of separate counterparts (including by facsimile and other electronic transmission), and all of such counterparts taken together shall be deemed
+to constitute one and the same instrument.
+[Remainder of Page Intentionally Left Blank]
+8
+IN WITNESS WHEREOF, the parties hereto have caused this Lender Joinder Agreement to be duly executed, all as of the date first written above.
+JPMORGAN CHASE BANK, N.A.
+as Additional Commitment Lender
+By: /s/ Peter S. Predun
+Name: Peter S. Predun
+Title: Executive Director
+JPMORGAN CHASE BANK, N.A.,
+as Administrative Agent
+By: /s/ Peter S. Predun
+Name: Peter S. Predun
+Title: Executive Director
+CORE & MAIN LP,
+as Borrower
+By: /s/ Mark R. Witkowski
+Name: Mark R. Witkowski
+Title: Vice President and Chief Financial Officer
+[Signature Page to Lender Joinder Agreement (Blue Point)]
+Acknowledgment to Lender Joinder Agreement
+Each Guarantor acknowledges and consents to each of the foregoing provisions of this Lender Joinder Agreement. Each Guarantor (and the Borrower
+by delivery of its executed signature above) further acknowledges and agrees that all Obligations with respect to the Initial Term Loan Commitments under
+the Credit Agreement as modified by this Lender Joinder Agreement shall be fully guaranteed and secured pursuant to the Guarantee and Collateral
+Agreement in accordance with the terms and provisions thereof. Each Guarantor and the Borrower reaffirms its obligations under the Loan Documents to
+which it is party. Without limiting the foregoing, each of the Guarantors and the Borrower hereby (i) acknowledges and agrees that all of its obligations
+under the Guarantee and Collateral Agreement and the other Security Documents to which it is a party are reaffirmed and remain in full force and effect on a
+continuous basis, (ii) reaffirms each Lien granted by such Guarantor and the Borrower, as applicable, to the Collateral Agent for the benefit of the Secured
+Parties made pursuant to the Guarantee and Collateral Agreement and (iii) agrees that the Borrower Obligations and the Guarantor Obligations (each as
+defined in the Guarantee and Collateral Agreement) include, among other things and without limitation, the due and punctual payment by the Borrower or
+the Guarantors, as applicable, when due and payable (whether at the stated maturity, by acceleration or otherwise) of principal and interest on the Loans
+made pursuant to the Commitments under the Credit Agreement as modified by this Lender Joinder Agreement.
+[Signature Pages Follow]
+GUARANTORS:
+CD&R PLUMB BUYER, LLC
+By: /s/ Theresa A. Gore
+Name: Theresa A. Gore
+Title: Vice President and Secretary
+CORE & MAIN GP, LLC
+By: /s/ Theresa A. Gore
+Name: Theresa A. Gore
+Title: Vice President and Secretary
+CORE & MAIN MANAGEMENT FEEDER, LLC
+By: /s/ Mark R. Witkowski
+Name: Mark R. Witkowski
+Title: Vice President
+[Signature Page to Acknowledgment to Lender Joinder Agreement (Blue Point)]
+SCHEDULE A
+to
+LENDER JOINDER AGREEMENT
+SUPPLEMENTAL TERM LOAN COMMITMENTS
+Aggregate
+Tranche of
+Additional
+Commitment
+Lender
+JPMorgan Chase Bank, N.A.
+Supplemental
+Term Loan
+Commitment
+Initial Term
+Loan Tranche
+Effective Date of Lender Joinder Agreement: As specified in Section B.3 above.
+Notice Address for the Additional Commitment Lender:
+JPMorgan Chase Bank, N.A.
+383 Madison Avenue
+New York, New York 10179
+Principal
+Amount
+Committed
+$225,000,000
+Amount of All
+Supplemental
+Term Loan
+Commitments
+$225,000,000
+Maturity Date
+August 1,
+2024
+ANNEX I
+to
+LENDER JOINDER AGREEMENT
+Annex I
+“Blue Point Acquisition”: the acquisition by the Borrower of certain assets of Long Island Pipe Supply, Inc. pursuant to the Blue Point Acquisition
+Agreement.
+“Blue Point Acquisition Agreement”: the Asset Purchase Agreement, made entered into as of May 1, 2019, by and among the Borrower, Long Island
+Pipe Supply Company, Inc., a New York corporation (“LIP”), the Sellers (as defined therein), Robert Moss, a resident of Nassau County, New York,
+Bradley Moss, a resident of New York County, New York and Michael Moss, a resident of New York County, New York.
+“Blue Point Committed Lenders”: JPMorgan Chase Bank, N.A., Citigroup Global Markets Inc., Bank of America, N.A., Barclays Bank PLC,
+Deutsche Bank AG New York Branch, Royal Bank of Canada, Goldman Sachs Bank USA, Branch Banking and Trust Company, U.S. Bank National
+Association, Credit Suisse AG, Natixis, New York Branch, and Nomura Securities International, Inc.
+“Blue Point Lead Arrangers”: in respect of the Supplemental Term Loan Commitments contemplated hereby, JPMorgan Chase Bank, N.A., Citi,
+Merrill Lynch, Pierce, Fenner & Smith Incorporated, Barclays Bank PLC, Deutsche Bank Securities Inc., RBC Capital Markets1, Goldman Sachs Bank
+USA, Branch Banking and Trust Company, U.S. Bank National Association, Credit Suisse Loan Funding LLC, Natixis, New York Branch, and Nomura
+Securities International, Inc., as Joint Lead Arrangers.
+“Blue Point Transactions”: any or all of the following (whether taking place prior to, on or following the Effective Date): (i) the entry into the Blue
+Point Acquisition Agreement and the consummation of the transactions contemplated thereby, including the Blue Point Acquisition, (ii) the entry into that
+certain Amendment No. 1 to the Existing ABL Credit Agreement, dated as of the Effective Date and any incurrence of Indebtedness under the Existing ABL
+Credit Agreement, (iii) the entry into this Lender Joinder Agreement and incurrence of the Supplemental Term Loans hereunder and (iv) all other
+transactions relating to any of the foregoing (including payment of fees, premiums and expenses related to any of the foregoing).
+“Citi”: Citigroup Global Markets Inc., Citibank, N.A., Citigroup, USA, Inc., Citigroup North America, Inc. and/or any of their affiliates as any of them
+shall determine to be appropriate to provide the services contemplated pursuant to the Supplemental Term Loan Commitments.
+1
+RBC Capital Markets is a marketing name for the capital markets activities of Royal Bank of Canada and its affiliates.
+“Company”: collectively, the assets of Long Island Pipe Supply, Inc. being acquired in connection with the Blue Point Acquisition Agreement.
+“Existing ABL Credit Agreement”: ABL Credit Agreement, dated as of August 1, 2017 (as amended, supplemented, waived or otherwise modified
+from time to time), among the Borrower, the subsidiary borrowers from time to time party thereto, the several banks and other financial institutions from
+time to time party thereto and Citibank, N.A., as administrative agent and collateral agent.
+14

@@ -20,37 +20,17 @@ if "messages" not in st.session_state.keys():  # Initialize the chat messages hi
 
 @st.cache_resource(show_spinner=False)
 def load_data():
-    input_files = download_data()
-    reader = SimpleDirectoryReader(input_files=input_files, recursive=True)
+    reader = SimpleDirectoryReader(input_files=['data/contracts_index.json'], recursive=True)
     docs = reader.load_data(show_progress=True)
-    logger.info(reader.input_files)
-    doc_count = len(reader.input_files)
-    if doc_count==1:
-        Settings.llm = OpenAI(
-            model="gpt-3.5-turbo",
-            temperature=0.7,
-            system_prompt="""You are a laywer and 
-            have been given an infrastructure agreements.
-            Your job is to answer technical questions about this agreement.
-            Assume that all questions are related 
-            to the agreement. Keep 
-            your answers technical and based on 
-            the text of the document – do not hallucinate features. 
-            """
-        )
-    else:
-        Settings.llm = OpenAI(
-            model="gpt-3.5-turbo",
-            temperature=0.7,
-            system_prompt=f"""You are a laywer and 
-            have been given {doc_count} infrastructure agreements.
-            Your job is to answer technical questions about the agreements.
-            Assume that all questions are related 
-            to these {doc_count} agreements. Keep 
-            your answers technical and based on 
-            the text of the documents – do not hallucinate features. 
-            """
-        )
+    Settings.llm = OpenAI(
+        model="gpt-3.5-turbo",
+        temperature=0.7,
+        system_prompt="""
+        You have been provided a mapping for an index in elasticsearch. 
+        Your job is to reformat queries submitted by the user
+        into Elasticsearch DSL format based on the mapping of this index.
+        """
+    )
     index = VectorStoreIndex.from_documents(docs)
     return index
 
@@ -58,9 +38,7 @@ def load_data():
 index = load_data()
 
 if "chat_engine" not in st.session_state.keys():  # Initialize the chat engine
-    st.session_state.chat_engine = index.as_chat_engine(
-        chat_mode="condense_question", verbose=True, streaming=True
-    )
+    st.session_state.chat_engine = index.as_chat_engine(verbose=True, streaming=True)
 
 if prompt := st.chat_input(
     "Ask a question"
